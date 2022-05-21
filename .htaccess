@@ -1,0 +1,17 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.+) - [PT,L]
+
+  RewriteRule ^assets/(.*)$ public/assets/$1 [L]
+  RewriteRule ^wallpapers/(.*)$ public/wallpapers/$1 [L]
+  RewriteRule ^verify-existence$ public/verify.php [QSA,L]
+  RewriteRule ^proxy.php$ public/proxy.php [QSA,L]
+  RewriteRule ^api/v([0-9]*)/(.*)/?$ public/api.php?path_info=$2&api_version=$1 [QSA,L]
+  RewriteRule ^$ public/router.php [QSA,L]
+  RewriteRule ^(.*) public/router.php?path_info=$1 [QSA,L]
+</IfModule>

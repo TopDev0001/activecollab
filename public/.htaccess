@@ -1,0 +1,14 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.+) - [PT,L]
+
+  RewriteRule ^verify-existence$ verify.php [QSA,L]
+  RewriteRule ^api/v([0-9]*)/(.*)/?$ api.php?path_info=$2&api_version=$1 [QSA,L]
+  RewriteRule ^$ router.php [QSA,L]
+  RewriteRule ^(.*) router.php?path_info=$1 [QSA,L]
+</IfModule>

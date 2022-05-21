@@ -1,0 +1,139 @@
+/* ==========================================================================
+  #TOOLTIP
+  ========================================================================== */
+
+$tooltip-background-color:    rgba(0,0,0, .9);
+$tooltip-arrow-border-width:    5px;
+$tooltip-margin:                4px;
+$tooltip-actual-margin:         $tooltip-arrow-border-width + $tooltip-margin;
+$tooltip-transform-offset:      12px;
+$tooltip-transform-scale:       .85, .9;
+$tooltip-transition-duration:   .15s;
+
+$border-radius: 4px;
+
+
+
+  /**
+   * Tooltip
+   */
+  .c-tooltip {
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10001;
+  }
+  
+  /**
+   * Tooltip content
+   *
+   * 1. Due to the way we create css triangle (see comments in the tooltip arrow
+   *    above) we need to push this a bit to position it correctly.
+   * 2. Transition color as well. This prevents blurry text during transition.
+   */
+  .c-tooltip__content {
+    background-color: $tooltip-background-color;
+    border-radius: $border-radius;
+    color: transparent; /* [2] */
+    content: "";
+    font-size: 12px;
+    font-weight: 500;
+    line-height: normal;
+    max-width: 200px;
+    opacity: 0;
+    padding: 4px 10px;
+    text-align: center;
+    transition-property: color, opacity, transform;
+    transition-delay: .6s;
+    transition-duration: $tooltip-transition-duration, ($tooltip-transition-duration - .05), $tooltip-transition-duration;
+    transition-timing-function: ease, ease, cubic-bezier(0.39, 0.575, 0.565, 1);
+    transform: translateY($tooltip-transform-offset) scale($tooltip-transform-scale);
+    transform-origin: 50% 100%;
+    position: relative;
+    bottom: $tooltip-actual-margin; /* [1] */
+  
+    /**
+     * Tooltip arrow
+     *
+     * Create an arrow using pure css triangles. The way we create triangle is by
+     * setting all borders to have the same width and then color only the one we
+     * need (eg. bottom one). See this image for context
+     * https://i.stack.imgur.com/QH01k.png.
+     *
+     * 1. Undo styles from the default tooltip.
+     */
+    &::before {
+      border-color: transparent;
+      border-style: solid;
+      border-width: $tooltip-arrow-border-width;
+      border-top-color: $tooltip-background-color;
+      content: "";
+      transform: translateX(-50%);
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      z-index: 1000;
+  
+      .c-tooltip--bottom & {
+        border-top-color: transparent; /* [1] */
+        border-bottom-color: $tooltip-background-color;
+        top: auto;
+        bottom: 100%;
+      }
+    }
+  
+    .c-tooltip--animate & {
+      color: #fff;
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  
+    .c-tooltip--bottom & {
+      transform-origin: 50% 0;
+      bottom: auto;
+      top: $tooltip-actual-margin;
+    }
+  
+    .c-tooltip--bottom:not(.c-tooltip--animate) & {
+      transform: translateY(-$tooltip-transform-offset) scale($tooltip-transform-scale);
+    }
+  
+    .c-tooltip--equal-padding & {
+      padding: 8px;
+    }
+  
+    .c-tooltip--equal-padding--large & {
+      padding: 16px;
+    }
+  
+    .c-tooltip--padding-none & {
+      padding: 0;
+    }
+  
+    .c-tooltip--wide & {
+      max-width: 300px;
+    }
+  }
+  
+  /**
+   * Tooltip light variant
+   */
+  .c-tooltip--light {
+    $background-color: #fff;
+  
+    .c-tooltip__content {
+      background-color: $background-color;
+      box-shadow: 0 3px 16px 0 rgba(132,132,132, .35);
+      color: #333;
+  
+      &::before {
+        border-top-color: $background-color;
+      }
+    }
+  
+    &.c-tooltip--bottom .c-tooltip__content::before {
+      border-top-color: transparent;
+      border-bottom-color: $background-color;
+    }
+  }

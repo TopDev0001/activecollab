@@ -1,0 +1,27 @@
+/* ==========================================================================
+  #SIDE MENU
+  ========================================================================== */
+
+.c-sidebar {
+  @apply fixed top-0 left-0 py-2 pr-6 pl-8;
+  display: none;
+  
+  @screen sm {
+    @apply py-6;
+    display: block;
+    width: $sidebar-width;
+  }
+
+  @media screen and (max-height: 700px) {
+    position: absolute;
+  }
+
+  a {
+    @apply no-underline;
+  }
+}
+
+  .c-sidebar__icon-date-indicator {
+    @apply absolute bottom-0 inset-x-0 text-xxs text-center pb-1;
+    font-size: 10px;
+  }

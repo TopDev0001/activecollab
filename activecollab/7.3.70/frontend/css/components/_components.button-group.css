@@ -1,0 +1,28 @@
+/* ==========================================================================
+  #BUTTON GROUP
+  ========================================================================== */
+
+.c-btn-group {
+  .c-btn {
+    &:first-child {
+      @apply rounded-r-none pr-2;
+    }
+
+    &:last-child {
+      @apply rounded-l-none pl-2;
+    }
+
+    &:not(:first-child):not(:last-child) {
+      @apply rounded-none px-2;
+    }
+
+    &:not(:last-child) {
+      @apply -mr-px;
+    }
+
+    &:hover {
+      position: relative;
+      z-index: theme('zIndex.10');
+    }
+  }
+}

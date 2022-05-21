@@ -1,0 +1,1237 @@
+{
+    "name": "Logo Design",
+    "members": [],
+    "category_id": 2,
+    "created_on": -30,
+    "created_by_name": "Joshua the Project Manager",
+    "created_by_email": "joshua@example.com",
+    "body": "This is the Sample project of a *Logo Design* process at Exemplary Samples Co.",
+    "currency_id": 1,
+    "email": "owner+u7g2h168ga@activecollab.com",
+    "is_tracking_enabled": true,
+    "is_client_reporting_enabled": true,
+    "budget": 1500,
+    "task_lists": [
+        {
+            "name": "Refference",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -30,
+            "start_on": null,
+            "due_on": null,
+            "position": 1,
+            "tasks": [
+                {
+                    "name": "Design Brief",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "Logo Design Brief.pdf",
+                            "md5": "8131d28123a1900ec77974caa841f0c1",
+                            "mime_type": "application/pdf",
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "Design Brief is provided below and available at all times for all stakeholders to review as they see fit.",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        },
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Renegotiate budget and deadline",
+                    "fake_assignee_name": "Joshua the Project Manager",
+                    "fake_assignee_email": "joshua@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "BLOCKED",
+                            "color": "#CACACA",
+                            "is_default": false,
+                            "position": 7,
+                            "is_global": true
+                        },
+                        {
+                            "name": "URGENT",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 25,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": true,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -2,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> We may need to bring in someone to help out, but that will have an impact on the current budget. I will make an estimate and get back to you ASAP.",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -2
+                        },
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> I am afraid that that is unacceptable. We have a deadline we need to honor, and delays are out of the question. What are our alternatives?",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -2
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> It seems we've hit a bottle neck. The latest setback has delayed our progress by a week. How will that fact affect your timeline?",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -2
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com",
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 150,
+                            "record_date": -2,
+                            "category_name": "Outsource",
+                            "billable_status": 1,
+                            "summary": "Outsource designer"
+                        }
+                    ],
+                    "subscribers": [
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        },
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Research",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -30,
+            "start_on": -30,
+            "due_on": -11,
+            "position": 2,
+            "tasks": [
+                {
+                    "name": "Moodboard",
+                    "fake_assignee_name": "Joshua the Project Manager",
+                    "fake_assignee_email": "joshua@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 2,
+                    "completed_on": -25,
+                    "completed_by_name": "Amber the Graphic Designer",
+                    "completed_by_email": "amber@example.com",
+                    "is_completed": true,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -11,
+                    "due_on": -11,
+                    "job_type_id": 2,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<p><span class=\"mention\">Jamie the Client</span>  As a reference, I've created a mood board our designers can use.</p> <p><span class=\"mention\">Amber the Graphic Designer</span> </p>",
+                            "attachments": [
+                                {
+                                    "name": " Barbarian Rags Reference Logo Design.png",
+                                    "md5": "4932ff1e7ae7de03080db3bb69e606e9",
+                                    "mime_type": "image/png",
+                                    "created_on": -25,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -25
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com",
+                            "created_on": -4,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 4,
+                            "record_date": -4,
+                            "job_type_name": "Research",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        },
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Analyse Referenes",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 8,
+                    "completed_on": -20,
+                    "completed_by_name": "Amber the Graphic Designer",
+                    "completed_by_email": "amber@example.com",
+                    "is_completed": true,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -11,
+                    "due_on": -11,
+                    "job_type_id": 2,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "I have a few suggestions myself. But instead of jotting it all here, <span class=\"mention\">Jamie the Client</span>  please check the <a title=\"Note\" href=\"/acexport1/projects/19/notes?modal=Note-16-19-0\">Note</a> I made.",
+                            "attachments": [],
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "created_on": -20
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com",
+                            "created_on": -19,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 4,
+                            "record_date": -19,
+                            "job_type_name": "Research",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Online research",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 20,
+                    "completed_on": -20,
+                    "completed_by_name": "Amber the Graphic Designer",
+                    "completed_by_email": "amber@example.com",
+                    "is_completed": true,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -11,
+                    "due_on": -11,
+                    "job_type_id": 2,
+                    "position": 3,
+                    "subtasks": [
+                        {
+                            "body": "Blogs",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -22,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        },
+                        {
+                            "body": "Forums",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -23,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        },
+                        {
+                            "body": "Competition",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -25,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        },
+                        {
+                            "body": "Similar Busines",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -26,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "Conclusion of online research are provided below.",
+                            "attachments": [
+                                {
+                                    "name": "Results of Online Research.pdf",
+                                    "md5": "e9fa6a723f5c89e3b7ccece791f1cf40",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -15,
+                                    "created_by_name": "Amber the Graphic Designer",
+                                    "created_by_email": "amber@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "created_on": -15
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com",
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 16,
+                            "record_date": -18,
+                            "job_type_name": "Design",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        },
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Project Phase Retrospective",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "Results of Online Research.pdf",
+                            "md5": "e9fa6a723f5c89e3b7ccece791f1cf40",
+                            "mime_type": "application/pdf",
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        },
+                        {
+                            "name": " Barbarian Rags Reference Logo Design.png",
+                            "md5": "4932ff1e7ae7de03080db3bb69e606e9",
+                            "mime_type": "image/png",
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "During the Research phase, we completed three tasks:<br />1. Moodboard<br />2. Reference Analysis<br />3. Online research<br />Crucial files are provided below, as well as in the Notes section. If you would like to know more, check the <strong>Completed Tasks</strong> section.<br />We've spent 24 hours on research.",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -10,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> I understand. This is an excellent approach.",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -9
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> After successfully completing each phase, we make one task as a phase retrospective. It's meant to will help us recall crucial moments.",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -10
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Loose Sketching",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -30,
+            "start_on": -10,
+            "due_on": 10,
+            "position": 3,
+            "tasks": [
+                {
+                    "name": "First Concept",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "AWAING CLIENT APPROVAL",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 60,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 8,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -7,
+                    "due_on": -1,
+                    "job_type_id": 1,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Choose Fonts",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -5,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        },
+                        {
+                            "body": "Specify Colors",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -5,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Amber the Graphic Designer</span> I am sorry, but this just won't do. You would have to make some radical changes for me to even consider it.",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -1
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span>  First concept is ready. Two more on the way.",
+                            "attachments": [
+                                {
+                                    "name": "Barbarians Raggs.png",
+                                    "md5": "7c8976d997a9a31764820be9f64cd749",
+                                    "mime_type": "image/png",
+                                    "created_on": -2,
+                                    "created_by_name": "Amber the Graphic Designer",
+                                    "created_by_email": "amber@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "created_on": -2
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com",
+                            "created_on": -8,
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "value": 8,
+                            "record_date": -9,
+                            "job_type_name": "Design",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        },
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Second Concept",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "IN PROGRESS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 8,
+                            "is_global": true
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 8,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 0,
+                    "due_on": 7,
+                    "job_type_id": 1,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Choose Fonts",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Specify Colors",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -0.125,
+                            "completed_by_name": "Amber the Graphic Designer",
+                            "completed_by_email": "amber@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> All right, I will get right on it.",
+                            "attachments": [],
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "created_on": -0.1875
+                        },
+                        {
+                            "body": "<span class=\"mention\">Amber the Graphic Designer</span> Indeed we do. It goes perfectly with our brand. ",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -0.208333
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> Starting the second concept, but I just want to reiterate: we stick with red/black/gold color scheme?",
+                            "attachments": [
+                                {
+                                    "name": "Barbarian Rags Color Scheme.png",
+                                    "md5": "048113ff25e841ea7513a85066568af5",
+                                    "mime_type": "image/png",
+                                    "created_on": -0.5,
+                                    "created_by_name": "Amber the Graphic Designer",
+                                    "created_by_email": "amber@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "created_on": -0.5
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com",
+                            "created_on": -7,
+                            "created_by_name": "Amber the Graphic Designer",
+                            "created_by_email": "amber@example.com",
+                            "value": 2,
+                            "record_date": -7,
+                            "job_type_name": "Design",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Third Concept",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 8,
+                    "due_on": 15,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [
+                        {
+                            "body": "Specify Colors",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Choose fonts",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -30,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Client Feedback Analysis",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": true,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        },
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tight Sketching",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -30,
+            "start_on": 10,
+            "due_on": 35,
+            "position": 4,
+            "tasks": [
+                {
+                    "name": "Idea Refinment",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": "",
+                    "completed_by_email": "",
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 25,
+                    "due_on": 25,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Final Draft",
+                    "fake_assignee_name": "Amber the Graphic Designer",
+                    "fake_assignee_email": "amber@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 38,
+                    "due_on": 38,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Client Feedback Analysis",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": true,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Final Refinement ",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -30,
+            "start_on": 40,
+            "due_on": 50,
+            "position": 5,
+            "tasks": [
+                {
+                    "name": "Logo Finalization",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 50,
+                    "due_on": 50,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Amber the Graphic Designer",
+                            "user_email": "amber@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Send Documentation",
+                    "fake_assignee_name": "Joshua the Project Manager",
+                    "fake_assignee_email": "joshua@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 50,
+                    "due_on": 50,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Get Paid",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "YAY!",
+                            "color": "#FBD6E7",
+                            "is_default": false,
+                            "position": 59,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": true,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "discussions": [
+        {
+            "name": "Brainstorming Discussion",
+            "body": "",
+            "is_hidden_from_clients": false,
+            "created_on": -25,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [
+                {
+                    "body": "<span class=\"mention\">Amber the Graphic Designer</span> Maybe black or gray?  ",
+                    "attachments": [],
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "created_on": -24
+                },
+                {
+                    "body": "<span class=\"mention\">Joshua the Project Manager</span> As green grass of the battlefield.",
+                    "attachments": [],
+                    "created_by_name": "Amber the Graphic Designer",
+                    "created_by_email": "amber@example.com",
+                    "created_on": -24
+                },
+                {
+                    "body": "<span class=\"mention\">Amber the Graphic Designer</span> Why green?",
+                    "attachments": [],
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "created_on": -24
+                },
+                {
+                    "body": "When it comes to our client company Barbarian's Rags, I am thinking about red, yellow, green palette. Any suggestions? ",
+                    "attachments": [],
+                    "created_by_name": "Amber the Graphic Designer",
+                    "created_by_email": "amber@example.com",
+                    "created_on": -24
+                }
+            ],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                },
+                {
+                    "user_name": "Amber the Graphic Designer",
+                    "user_email": "amber@example.com"
+                }
+            ]
+        }
+    ],
+    "notes": [
+        {
+            "name": "About \"Logo Design\" Project",
+            "body": "<div>We organize our Logo design project in four major stages: <br /><br />1. Research; <br />2. Loose Sketching; <br />3. Tight sketching; <br />4. Final Refinement; <br /><br />Each stage is broken down into smaller stages to better organize our time. Usually, our project manager is assigned to \"Define the task\" stage, as well as a part of \"Final refinement stage\", while everything else relies on our designer. At the end of every stage, there is a \"Client feedback analysis\" (which is hidden from clients). Also, we use labels to show which stage each task is in. If there is a necessity for segmenting tasks into smaller pieces we will break it down with subtasks. <br />Finally, the client is included in the process as it is the fastest way to get feedback. </div> <div> </div>",
+            "is_hidden_from_clients": false,
+            "created_on": -30,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                }
+            ]
+        },
+        {
+            "name": "Amber's inspiration for Jamie's company \"Barbarian's Rags\"",
+            "body": "<br />1. Barbarian<br />- War ------- Chaos<br />- Raid ------- Fear<br />- Blood ----- Red<br />- Loot ------ Rich<br />- Gold ------ Yellow<br />- Noise ----- Intrusive<br /><br />2. Rags<br />- Used ----------- Ridged edges<br />- Stained -------- Dark/light same color combo<br />- Washed out --- Unsaturated",
+            "is_hidden_from_clients": false,
+            "created_on": -20,
+            "created_by_name": "Amber the Graphic Designer",
+            "created_by_email": "amber@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Amber the Graphic Designer",
+                    "user_email": "amber@example.com"
+                },
+                {
+                    "user_name": "Jamie the Client",
+                    "user_email": "jamie@example.com"
+                },
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                }
+            ]
+        }
+    ],
+    "time_records": [],
+    "expenses": [],
+    "files": [],
+    "job_types": [
+        {
+            "name": "Design",
+            "default_hourly_rate": "100.000",
+            "is_default": true
+        },
+        {
+            "name": "Research",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Q&A",
+            "default_hourly_rate": "20.000",
+            "is_default": false
+        },
+        {
+            "name": "Backend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Frontend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        }
+    ],
+    "expense_categories": [
+        {
+            "name": "General",
+            "is_default": true
+        },
+        {
+            "name": "Outsource",
+            "is_default": false
+        }
+    ],
+    "config_option_values": {
+        "display_mode_projects": "grid",
+        "display_mode_project_files": "list",
+        "display_mode_project_time": "grid",
+        "sort_mode_project_notes": "recently_updated",
+        "show_visual_editor_toolbar": true,
+        "display_mode_project_tasks": "list"
+    }
+}

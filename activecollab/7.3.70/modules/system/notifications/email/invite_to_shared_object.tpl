@@ -1,0 +1,4 @@
+[{$context->getProject()->getName()}] {lang name=$context->getName() type=$context->getVerboseType(false, $language) language=$language}You have been Invited to Collaborate on ':name' :type{/lang}
+================================================================================
+<p style="margin-bottom: 36px;">{lang url=$context_view_url name=$context->getName() type=$context->getVerboseType(true, $language) language=$language}You have been invited to collaborate on "<a href=":url">:name</a>" :type. To add your comment, simply <u>reply to this email</u> or <a href=":url" style=":link_style">visit this page</a>{/lang}.</p>
+{$context->getFormattedBody('email') nofilter}

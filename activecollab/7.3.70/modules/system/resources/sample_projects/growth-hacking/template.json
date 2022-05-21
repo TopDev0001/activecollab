@@ -1,0 +1,1651 @@
+{
+    "name": "Growth Hacking",
+    "members": [],
+    "category_id": 2,
+    "created_on": 0,
+    "created_by_name": "Joshua the Project Manager",
+    "created_by_email": "joshua@example.com",
+    "body": "This is the Sample project of a *Growth Hacking* process at Exemplary Samples Co.",
+    "currency_id": 1,
+    "email": "owner+f6hhd0dyqe@activecollab.com",
+    "is_tracking_enabled": true,
+    "is_client_reporting_enabled": true,
+    "budget": null,
+    "task_lists": [
+        {
+            "name": "Growth Idea",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 1,
+            "tasks": [
+                {
+                    "name": "**Growth Hack Idea Template**",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> (Awareness, Activation, Acquisition, Retention, Referral, Revenue, Operations) - GREEN Label</li> <li><strong>Focus is on:</strong> (Blog, Website, SEO, Social, Customers, Media Buying) - BLUE Label</li> <li><strong>By using:</strong> (Content, Copy, CRO, Referral, SEM, SEO, Social, UI, UX, CSM, Automation, Email) - RED Label</li> <li><strong>KPI:</strong> (Blog Sessions, Blog Sign ups, Trial Sign ups, Google Organic, traffic, Referral Traffic, Weekly Active Users (WAU), Monthly Recurring Revenue (MRR), Churn, Session Duration, Pages Per Session) - YELLOW Label</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -60,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Use orange CTA buttons for pricing page",
+                    "fake_assignee_name": "Leroy the Marketing Manager",
+                    "fake_assignee_email": "leroy@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACTIVATION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 31,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UX",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 33,
+                            "is_global": false
+                        },
+                        {
+                            "name": "WEBSITE",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 34,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Activation, Acquisition </li> <li><strong>Focus is on:</strong> Website, Customers</li> <li><strong>By using:</strong> UX</li> <li><strong>KPI:</strong> Trial Sign ups</li> </ul>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": 0,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Base next marketing campaign on testimonials (3/5)",
+                    "fake_assignee_name": "Nicole the Marketing Manager",
+                    "fake_assignee_email": "nicole@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACQUISITION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 35,
+                            "is_global": false
+                        },
+                        {
+                            "name": "ACTIVATION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 31,
+                            "is_global": false
+                        },
+                        {
+                            "name": "AWARENESS",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 36,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CONTENT",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 37,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CUSTOMERS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 28,
+                            "is_global": false
+                        },
+                        {
+                            "name": "EMAIL",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 29,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Awareness, Activation, Acquisition</li> <li><strong>Focus is on:</strong> Customers</li> <li><strong>By using:</strong> Content, Email</li> <li><strong>KPI:</strong> Trial Sign ups</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -2,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Create slider on \"Self hosted\" page 4/5",
+                    "fake_assignee_name": "Leroy the Marketing Manager",
+                    "fake_assignee_email": "leroy@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACQUISITION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 35,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UI",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 45,
+                            "is_global": false
+                        },
+                        {
+                            "name": "WEBSITE",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 34,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Acquisition</li> <li><strong>Focus is on:</strong> Website</li> <li><strong>By using:</strong> UI</li> <li><strong>KPI:</strong> Trial Sign ups</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -3,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Research & Preparation",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 2,
+            "tasks": [
+                {
+                    "name": "Place \"Customer Stories\" on homepage (3/5)",
+                    "fake_assignee_name": "Leroy the Marketing Manager",
+                    "fake_assignee_email": "leroy@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACQUISITION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 35,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CRO",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 38,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CUSTOMERS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 28,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        },
+                        {
+                            "name": "WEBSITE",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 34,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Acquisition</li> <li><strong>Focus is on:</strong> Customers, Website</li> <li><strong>By using:</strong>  CRO</li> <li><strong>KPI:</strong> Trial Sign ups</li> </ul></div>",
+                    "is_important": true,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -8,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Leroy the Marketing Manager</span> This seems like an idea that needs to be tested ASAP. Focus on it first, please. ",
+                            "attachments": [],
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "created_on": 0
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com",
+                            "created_on": -1,
+                            "created_by_name": "Leroy the Marketing Manager",
+                            "created_by_email": "leroy@example.com",
+                            "value": 10,
+                            "record_date": -1,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shorter Link building mails are more effective than the long ones 5/2",
+                    "fake_assignee_name": "Jim the SEO Specialist",
+                    "fake_assignee_email": "jim@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "EMAIL",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 29,
+                            "is_global": false
+                        },
+                        {
+                            "name": "EMAIL OPEN RATE",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 39,
+                            "is_global": false
+                        },
+                        {
+                            "name": "OPERATIONS",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 40,
+                            "is_global": false
+                        },
+                        {
+                            "name": "SEO",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 41,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Operations</li> <li><strong>Focus is on:</strong> SEO</li> <li><strong>By using:</strong>  Email</li> <li><strong>KPI:</strong> Email open rate </li> </ul>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -7,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com",
+                            "created_on": 0,
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "value": 6,
+                            "record_date": 0,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Validating Idea",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 3,
+            "tasks": [
+                {
+                    "name": "Onbording Email after 30 minutes (5/3)",
+                    "fake_assignee_name": "Lucian the Head of Marketing",
+                    "fake_assignee_email": "lucian@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "CHURN",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 27,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CUSTOMERS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 28,
+                            "is_global": false
+                        },
+                        {
+                            "name": "EMAIL",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 29,
+                            "is_global": false
+                        },
+                        {
+                            "name": "RETENTION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 30,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Retention</li> <li><strong>Focus is on:</strong> Customers</li> <li><strong>By using:</strong> Email</li> <li><strong>KPI:</strong> Churn</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -35,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -15,
+                    "due_on": 30,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "Here is the template of the mail I would like to use.",
+                            "attachments": [
+                                {
+                                    "name": "First Onboarding Mail.png",
+                                    "md5": "f54a4ffb28573f1b713444a6aaef7647",
+                                    "mime_type": "image/png",
+                                    "created_on": -12,
+                                    "created_by_name": "Lucian the Head of Marketing",
+                                    "created_by_email": "lucian@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "created_on": -12
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com",
+                            "created_on": -15,
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "value": 17,
+                            "record_date": -15,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "A/B testing: reviews vs snipped Adwords extensions 2/5",
+                    "fake_assignee_name": "Lucian the Head of Marketing",
+                    "fake_assignee_email": "lucian@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACQUISITION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 35,
+                            "is_global": false
+                        },
+                        {
+                            "name": "AWARENESS",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 36,
+                            "is_global": false
+                        },
+                        {
+                            "name": "COPY",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 42,
+                            "is_global": false
+                        },
+                        {
+                            "name": "MONTHLY RECURRING REVENUE",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 43,
+                            "is_global": false
+                        },
+                        {
+                            "name": "SEM",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 44,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        },
+                        {
+                            "name": "WEBSITE",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 34,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Awareness, Acquisition</li> <li><strong>Focus is on:</strong> Website</li> <li><strong>By using:</strong> Copy, SEM</li> <li><strong>KPI:</strong> Trial Sign ups, Monthly Recurring Revenue (MRR)</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -25,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -7,
+                    "due_on": 7,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com",
+                            "created_on": -10,
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "value": 15,
+                            "record_date": -10,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Make \"competition comparison sheet\" available for download in PDF (4/4)",
+                    "fake_assignee_name": "Nicole the Marketing Manager",
+                    "fake_assignee_email": "nicole@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACQUISITION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 35,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CONTENT",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 37,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        },
+                        {
+                            "name": "WEBSITE",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 34,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Acquisition</li> <li><strong>Focus is on:</strong> Website</li> <li><strong>By using:</strong> Content</li> <li><strong>KPI:</strong> Trial Sign ups</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -15,
+                    "due_on": 16,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "This is what PDF should look like:",
+                            "attachments": [
+                                {
+                                    "name": "Competitors Analysis PDF.pdf",
+                                    "md5": "fcf720bdc59640f5e9a976b483c1074e",
+                                    "mime_type": "application/pdf",
+                                    "created_on": 0,
+                                    "created_by_name": "Nicole the Marketing Manager",
+                                    "created_by_email": "nicole@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Nicole the Marketing Manager",
+                            "created_by_email": "nicole@example.com",
+                            "created_on": 0
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com",
+                            "created_on": -17,
+                            "created_by_name": "Nicole the Marketing Manager",
+                            "created_by_email": "nicole@example.com",
+                            "value": 22,
+                            "record_date": -17,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "\"Was this post useful?\" on Blog (5/3)",
+                    "fake_assignee_name": "Jim the SEO Specialist",
+                    "fake_assignee_email": "jim@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "BLOG",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 46,
+                            "is_global": false
+                        },
+                        {
+                            "name": "BLOG SESSION",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 47,
+                            "is_global": false
+                        },
+                        {
+                            "name": "BLOG SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 48,
+                            "is_global": false
+                        },
+                        {
+                            "name": "OPERATIONS",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 40,
+                            "is_global": false
+                        },
+                        {
+                            "name": "SESSION DURATION",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 49,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UI",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 45,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UX",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 33,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Operations</li> <li><strong>Focus is on:</strong> Blog</li> <li><strong>By using:</strong> UI, UX</li> <li><strong>KPI:</strong> Blog Sessions, Blog Sign ups, Session Duration</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -31,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -3,
+                    "due_on": 32,
+                    "job_type_id": 0,
+                    "position": 5,
+                    "subtasks": [],
+                    "comments": [],
+                    "time_records": [
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com",
+                            "created_on": -5,
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "value": 9,
+                            "record_date": -5,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Winners!",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 4,
+            "tasks": [
+                {
+                    "name": "Send ebooks during user onboarding (4/5)",
+                    "fake_assignee_name": "Leroy the Marketing Manager",
+                    "fake_assignee_email": "leroy@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "CHURN",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 27,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CUSTOMERS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 28,
+                            "is_global": false
+                        },
+                        {
+                            "name": "EMAIL",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 29,
+                            "is_global": false
+                        },
+                        {
+                            "name": "RETENTION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 30,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Retention</li> <li><strong>Focus is on:</strong> Customers</li> <li><strong>By using:</strong> Email</li> <li><strong>KPI:</strong> Churn</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -40,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "It turns out our e-books provide excellent input for new users. Our churn decreased by 3% since we started with this tactics.  ",
+                            "attachments": [],
+                            "created_by_name": "Leroy the Marketing Manager",
+                            "created_by_email": "leroy@example.com",
+                            "created_on": -11
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com",
+                            "created_on": -32,
+                            "created_by_name": "Leroy the Marketing Manager",
+                            "created_by_email": "leroy@example.com",
+                            "value": 20,
+                            "record_date": -32,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Remove post date and shorten URL (4/3)",
+                    "fake_assignee_name": "Jim the SEO Specialist",
+                    "fake_assignee_email": "jim@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "AWARENESS",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 36,
+                            "is_global": false
+                        },
+                        {
+                            "name": "BLOG",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 46,
+                            "is_global": false
+                        },
+                        {
+                            "name": "BLOG SESSION",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 47,
+                            "is_global": false
+                        },
+                        {
+                            "name": "SEO",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 41,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<div class=\"rich_text\"> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Awareness</li> <li><strong>Focus is on:</strong> Blog</li> <li><strong>By using:</strong> SEO</li> <li><strong>KPI:</strong> Blog Sessions</li> </ul></div>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -48,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "It turns out Google prefers shorter URLs. We've moved up by 5 positions for specific keywords just by implementing this simple change. ",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -20
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com",
+                            "created_on": -41,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 18,
+                            "record_date": -41,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Place GIF of a product on homepage (4/3)",
+                    "fake_assignee_name": "Nicole the Marketing Manager",
+                    "fake_assignee_email": "nicole@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACTIVATION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 31,
+                            "is_global": false
+                        },
+                        {
+                            "name": "CONTENT",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 37,
+                            "is_global": false
+                        },
+                        {
+                            "name": "TRIAL SIGN UP",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 32,
+                            "is_global": false
+                        },
+                        {
+                            "name": "WEBSITE",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 34,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<p><strong>HYPOTHESIS: Higher engagement when animated.</strong></p> <p><br /><strong>Ease:</strong> (1=hard, 5=easy)</p> <p><strong>Impact:</strong> (1=low, 5 = high)</p> <p> </p> <p><strong>LABELS:</strong></p> <ul><li><strong>Goal:</strong> Activation</li> <li><strong>Focus is on:</strong> Website</li> <li><strong>By using:</strong> Content</li> <li><strong>KPI:</strong> Trial Sign ups</li> </ul>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -31,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "Time on page increased. Also we increased number of trials by 2.5% within 14 days. ",
+                            "attachments": [],
+                            "created_by_name": "Nicole the Marketing Manager",
+                            "created_by_email": "nicole@example.com",
+                            "created_on": -9
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com",
+                            "created_on": -27,
+                            "created_by_name": "Nicole the Marketing Manager",
+                            "created_by_email": "nicole@example.com",
+                            "value": 18,
+                            "record_date": -27,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com",
+                            "created_on": -25,
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "value": 300,
+                            "record_date": -25,
+                            "billable_status": 0,
+                            "summary": "Outsource Visual Content Creation",
+                            "category_name": "Additional Expances"
+                        }
+                    ],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Losers...",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 5,
+            "tasks": [
+                {
+                    "name": "Realign social buttons to the left side of the screen (5/3)",
+                    "fake_assignee_name": "Leroy the Marketing Manager",
+                    "fake_assignee_email": "leroy@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "AWARENESS",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 36,
+                            "is_global": false
+                        },
+                        {
+                            "name": "BLOG",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 46,
+                            "is_global": false
+                        },
+                        {
+                            "name": "REFFERAL TRAFFIC",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 50,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UI",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 45,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -52,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<p>Change made no difference in number of shares or clicks on the social buttons. Neither did it improve time on page.</p> <p>Moving the task into a \"Loser\" column.</p> <p> </p>",
+                            "attachments": [],
+                            "created_by_name": "Leroy the Marketing Manager",
+                            "created_by_email": "leroy@example.com",
+                            "created_on": -20
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com",
+                            "created_on": -50,
+                            "created_by_name": "Leroy the Marketing Manager",
+                            "created_by_email": "leroy@example.com",
+                            "value": 5,
+                            "record_date": -50,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Blocked",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 6,
+            "tasks": [
+                {
+                    "name": "If a new user purchases our product within the first week of the trial, they get a discount (2/5)",
+                    "fake_assignee_name": "Lucian the Head of Marketing",
+                    "fake_assignee_email": "lucian@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "ACQUISITION",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 35,
+                            "is_global": false
+                        },
+                        {
+                            "name": "BLOCKED",
+                            "color": "#CACACA",
+                            "is_default": false,
+                            "position": 7,
+                            "is_global": true
+                        },
+                        {
+                            "name": "CUSTOMERS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 28,
+                            "is_global": false
+                        },
+                        {
+                            "name": "EMAIL",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 29,
+                            "is_global": false
+                        },
+                        {
+                            "name": "MONTHLY RECURRING REVENUE",
+                            "color": "#FDF196",
+                            "is_default": false,
+                            "position": 43,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": true,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "Blocked! Waiting for an approval from upper management.",
+                            "attachments": [],
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "created_on": -20
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com",
+                            "created_on": -25,
+                            "created_by_name": "Lucian the Head of Marketing",
+                            "created_by_email": "lucian@example.com",
+                            "value": 10,
+                            "record_date": -25,
+                            "job_type_name": "Growth Research",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        },
+                        {
+                            "user_name": "Leroy the Marketing Manager",
+                            "user_email": "leroy@example.com"
+                        },
+                        {
+                            "user_name": "Nicole the Marketing Manager",
+                            "user_email": "nicole@example.com"
+                        },
+                        {
+                            "user_name": "Lucian the Head of Marketing",
+                            "user_email": "lucian@example.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "discussions": [
+        {
+            "name": "Dissecting Growth Hack ideas",
+            "body": "As the title suggests, this is discussion is meant for current and potential idea analysis. If you have any questions about any growth idea, this is the place to ask.",
+            "is_hidden_from_clients": false,
+            "created_on": -60,
+            "created_by_name": "Lucian the Head of Marketing",
+            "created_by_email": "lucian@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Jim the SEO Specialist",
+                    "user_email": "jim@example.com"
+                },
+                {
+                    "user_name": "Leroy the Marketing Manager",
+                    "user_email": "leroy@example.com"
+                },
+                {
+                    "user_name": "Nicole the Marketing Manager",
+                    "user_email": "nicole@example.com"
+                },
+                {
+                    "user_name": "Lucian the Head of Marketing",
+                    "user_email": "lucian@example.com"
+                }
+            ]
+        }
+    ],
+    "notes": [
+        {
+            "name": "Rules of Growth Hacking project",
+            "body": "<div class=\"note_body\"> <div class=\"rich_text\"><strong><br />Title of the task:</strong> Growth Hack idea explained in one sentence <br /><br /><strong>Within the task description:</strong><br /><ul><li>Provide the Hypothesis</li> <li>Determine idea's difficulty (1=hard, 5=easy)</li> <li>Determine idea's impact on business (1=low, 5=high)</li> </ul><strong>Determine and LABEL:</strong><br /><ul><li>Goal: (Awareness, Activation, Acquisition, Retention, Referral, Revenue, Operations)</li> <li>Focus on: (Blog, Website, SEO, Social, Customers, Media Buying)</li> <li>Tool: (Content, Copy, CRO, Referral, SEM, SEO, Social, UI, UX, CSM, Automation, Email)</li> <li>KPIs: (Blog Sessions, Blog Sign ups, Trial Signups, Google organic traffic, Referral Traffic, Weekly Active Users (WAU), Monthly Recurring Revenue (MRR), Churn, Session Duration, Pages per Session)</li> <li>Start and due date</li> </ul></div> </div>",
+            "is_hidden_from_clients": false,
+            "created_on": -60,
+            "created_by_name": "Lucian the Head of Marketing",
+            "created_by_email": "lucian@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Lucian the Head of Marketing",
+                    "user_email": "lucian@example.com"
+                }
+            ]
+        }
+    ],
+    "time_records": [],
+    "expenses": [],
+    "files": [],
+    "job_types": [
+        {
+            "name": "Design",
+            "default_hourly_rate": "100.000",
+            "is_default": true
+        },
+        {
+            "name": "Research",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Q&A",
+            "default_hourly_rate": "20.000",
+            "is_default": false
+        },
+        {
+            "name": "Backend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Frontend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Writing",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Editing",
+            "default_hourly_rate": "10.000",
+            "is_default": false
+        },
+        {
+            "name": "Growth Research",
+            "default_hourly_rate": "1.000",
+            "is_default": false
+        },
+        {
+            "name": "Techincal interview",
+            "default_hourly_rate": "1.000",
+            "is_default": false
+        }
+    ],
+    "expense_categories": [
+        {
+            "name": "Additional Expances",
+            "is_default": true
+        }
+    ],
+    "config_option_values": {
+        "display_mode_projects": "grid",
+        "display_mode_project_files": "list",
+        "display_mode_project_time": "list",
+        "sort_mode_project_notes": "recently_updated",
+        "show_visual_editor_toolbar": true,
+        "display_mode_project_tasks": "column"
+    }
+}

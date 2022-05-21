@@ -1,0 +1,20 @@
+<?php
+
+/*
+ * This file is part of the ActiveCollab project.
+ *
+ * (c) A51 doo <info@activecollab.com>. All rights reserved.
+ */
+
+declare(strict_types=1);
+
+namespace ActiveCollab\Foundation\Urls\ModalArguments;
+
+interface ModalArgumentsInterface
+{
+    public function getEntityType(): string;
+    public function getEntityId(): int;
+    public function getProjectId(): int;
+    public function getNoteGroupId(): ?int;
+    public function getViewUrl(): string;
+}

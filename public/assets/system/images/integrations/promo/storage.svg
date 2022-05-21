@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="157px" height="225px" viewBox="0 0 157 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>981AC883-E2A1-4C64-B499-67CC839592E6</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Add-Ons----Additional-Storage" transform="translate(-644.000000, -456.000000)">
+            <g id="cover-image-copy" transform="translate(256.000000, 424.000000)">
+                <g id="storage" transform="translate(388.000000, 32.000000)">
+                    <g id="Group" transform="translate(7.000000, 129.000000)">
+                        <path d="M64.7,3.3 L5.5,33.3 C2.4,34.9 0.5,38.1 0.5,41.5 L0.5,54.5 C0.5,58 2.5,61.2 5.6,62.8 L64.9,92.4 C71.1,95.5 78.4,95.5 84.6,92.4 L143.9,62.8 C147,61.2 149,58 149,54.5 L149,41.5 C149,38 147,34.8 143.9,33.3 L84.6,3.3 C78.4,0.1 71,0.1 64.7,3.3 Z" id="Path" stroke="#000000" stroke-width="0.75" fill="#A1E0D8" fill-rule="nonzero"></path>
+                        <line x1="81.4" y1="71.2" x2="143.8" y2="39.5" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <line x1="67.8" y1="69.4" x2="49.4" y2="60.3" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <path d="M74.8,78.1 L74.8,86.4 C74.8,88.1 75.7,89.6 77.1,90.5 L77.2,90.6" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></path>
+                        <path d="M127.4,61.4 L87.4,81.3 C86.5,81.7 85.5,81.1 85.5,80.1 L85.5,79.4 C85.5,78.9 85.8,78.4 86.2,78.2 L126.2,58.3 C127.1,57.9 128.1,58.5 128.1,59.5 L128.1,60.2 C128.1,60.8 127.8,61.2 127.4,61.4 Z" id="Path" stroke="#000000"></path>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(134.563743, 55.542193) rotate(-86.729301) translate(-134.563743, -55.542193) " cx="134.563743" cy="55.5421931" rx="2.50007231" ry="1.50004338"></ellipse>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(141.372237, 52.259297) rotate(-86.729301) translate(-141.372237, -52.259297) " cx="141.372237" cy="52.2592968" rx="2.50007231" ry="1.50004338"></ellipse>
+                    </g>
+                    <path d="M18.9,159.5 C19.5,160 20.1,160.4 20.8,160.8 L80.1,190.4 C86.3,193.5 93.6,193.5 99.8,190.4 L149.8,165.5 C151.5,164.7 153.5,165.2 154.6,166.8 L155.7,168.4 C155.7,168.4 154.7,165 151,162.6 C140.4,156 115.8,145 93.5,144.1 C56.7,142.6 17.8,158.5 18.9,159.5 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(7.000000, 91.000000)">
+                        <path d="M64.7,2.5 L5.5,32.5 C2.4,34.1 0.5,37.3 0.5,40.7 L0.5,53.7 C0.5,57.2 2.5,60.4 5.6,62 L64.9,91.6 C71.1,94.7 78.4,94.7 84.6,91.6 L143.9,62 C147,60.4 149,57.2 149,53.7 L149,40.7 C149,37.2 147,34 143.9,32.5 L84.6,2.5 C78.4,-0.7 71,-0.7 64.7,2.5 Z" id="Path" stroke="#000000" stroke-width="0.75" fill="#A1E0D8" fill-rule="nonzero"></path>
+                        <line x1="81.4" y1="70.4" x2="143.8" y2="38.7" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <line x1="67.8" y1="68.6" x2="49.4" y2="59.5" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <path d="M74.8,77.3 L74.8,85.6 C74.8,87.3 75.7,88.8 77.1,89.7 L77.2,89.8" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></path>
+                        <path d="M127.4,60.6 L87.4,80.5 C86.5,80.9 85.5,80.3 85.5,79.3 L85.5,78.6 C85.5,78.1 85.8,77.6 86.2,77.4 L126.2,57.5 C127.1,57.1 128.1,57.7 128.1,58.7 L128.1,59.4 C128.1,59.9 127.8,60.4 127.4,60.6 Z" id="Path" stroke="#000000"></path>
+                        <path d="M123.2,62.6 L87.1,80.6 C86.3,81 85.4,80.4 85.4,79.5 L85.4,78.8 C85.4,78.3 85.7,77.9 86.1,77.7 L122.2,59.7 C123,59.3 123.9,59.9 123.9,60.8 L123.9,61.5 C123.9,62 123.6,62.4 123.2,62.6 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(134.592123, 54.714255) rotate(-86.729301) translate(-134.592123, -54.714255) " cx="134.592123" cy="54.7142549" rx="2.50007231" ry="1.50004338"></ellipse>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(141.400617, 51.431459) rotate(-86.729301) translate(-141.400617, -51.431459) " cx="141.400617" cy="51.4314585" rx="2.50007231" ry="1.50004338"></ellipse>
+                    </g>
+                    <path d="M18.9,120.5 C19.5,121 20.1,121.4 20.8,121.8 L80.1,151.4 C86.3,154.5 93.6,154.5 99.8,151.4 L149.8,126.5 C151.5,125.7 153.5,126.2 154.6,127.8 L155.7,129.4 C155.7,129.4 154.7,126 151,123.6 C140.4,117 115.8,106 93.5,105.1 C56.7,103.6 17.8,119.5 18.9,120.5 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(7.000000, 52.000000)">
+                        <path d="M64.7,2.7 L5.5,32.7 C2.4,34.3 0.5,37.5 0.5,40.9 L0.5,53.9 C0.5,57.4 2.5,60.6 5.6,62.2 L64.9,91.8 C71.1,94.9 78.4,94.9 84.6,91.8 L143.9,62.2 C147,60.6 149,57.4 149,53.9 L149,40.9 C149,37.4 147,34.2 143.9,32.7 L84.6,2.7 C78.4,-0.5 71,-0.5 64.7,2.7 Z" id="Path" stroke="#000000" stroke-width="0.75" fill="#A1E0D8" fill-rule="nonzero"></path>
+                        <line x1="81.4" y1="70.6" x2="143.8" y2="38.9" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <line x1="67.8" y1="68.8" x2="49.4" y2="59.6" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <path d="M74.8,77.4 L74.8,85.7 C74.8,87.4 75.7,88.9 77.1,89.8 L77.2,89.9" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></path>
+                        <path d="M127.4,60.8 L87.4,80.7 C86.5,81.1 85.5,80.5 85.5,79.5 L85.5,78.8 C85.5,78.3 85.8,77.8 86.2,77.6 L126.2,57.7 C127.1,57.3 128.1,57.9 128.1,58.9 L128.1,59.6 C128.1,60.1 127.8,60.6 127.4,60.8 Z" id="Path" stroke="#000000"></path>
+                        <path d="M114.2,66.9 L87,80.7 C86.3,81.1 85.4,80.5 85.4,79.7 L85.4,79.1 C85.4,78.7 85.6,78.3 86,78.1 L113.2,64.3 C113.9,63.9 114.8,64.5 114.8,65.3 L114.8,65.9 C114.8,66.4 114.6,66.8 114.2,66.9 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(134.620503, 54.886417) rotate(-86.729301) translate(-134.620503, -54.886417) " cx="134.620503" cy="54.8864166" rx="2.50007231" ry="1.50004338"></ellipse>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(141.329157, 51.597815) rotate(-86.729301) translate(-141.329157, -51.597815) " cx="141.329157" cy="51.5978147" rx="2.50007231" ry="1.50004338"></ellipse>
+                    </g>
+                    <path d="M18.9,82.1 C19.5,82.6 20.1,83 20.8,83.4 L80.1,113 C86.3,116.1 93.6,116.1 99.8,113 L149.8,88.1 C151.5,87.3 153.5,87.8 154.6,89.4 L155.7,91 C155.7,91 154.7,87.6 151,85.2 C140.4,78.6 115.8,67.6 93.5,66.7 C56.7,65.2 17.8,81.1 18.9,82.1 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(7.000000, 12.000000)">
+                        <path d="M64.7,3.3 L5.5,33.3 C2.4,34.9 0.5,38.1 0.5,41.5 L0.5,54.5 C0.5,58 2.5,61.2 5.6,62.8 L64.9,92.4 C71.1,95.5 78.4,95.5 84.6,92.4 L143.9,62.8 C147,61.2 149,58 149,54.5 L149,41.5 C149,38 147,34.8 143.9,33.3 L84.6,3.3 C78.4,0.1 71,0.1 64.7,3.3 Z" id="Path" stroke="#000000" stroke-width="0.75" fill="#A1E0D8" fill-rule="nonzero"></path>
+                        <line x1="81.4" y1="71.2" x2="143.8" y2="39.5" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <line x1="67.8" y1="69.4" x2="49.4" y2="60.3" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></line>
+                        <path d="M74.8,78.1 L74.8,86.4 C74.8,88.1 75.7,89.6 77.1,90.5 L77.2,90.6" id="Path" stroke="#000000" stroke-width="0.75" stroke-linecap="round"></path>
+                        <path d="M127.4,61.4 L87.4,81.3 C86.5,81.7 85.5,81.1 85.5,80.1 L85.5,79.4 C85.5,78.9 85.8,78.4 86.2,78.2 L126.2,58.3 C127.1,57.9 128.1,58.5 128.1,59.5 L128.1,60.2 C128.1,60.7 127.8,61.2 127.4,61.4 Z" id="Path" stroke="#000000"></path>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(134.592743, 55.511645) rotate(-86.729301) translate(-134.592743, -55.511645) " cx="134.592743" cy="55.5116453" rx="2.50007231" ry="1.50004338"></ellipse>
+                        <ellipse id="Oval" fill="#000000" fill-rule="nonzero" transform="translate(141.401237, 52.228749) rotate(-86.729301) translate(-141.401237, -52.228749) " cx="141.401237" cy="52.2287489" rx="2.50007231" ry="1.50004338"></ellipse>
+                    </g>
+                    <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="17.5" cy="17.8" r="17.5"></circle>
+                    <g id="Group" transform="translate(8.000000, 8.000000)" fill="#A1E0D8" fill-rule="nonzero">
+                        <rect id="Rectangle" x="8" y="0.6" width="2.9" height="18.4"></rect>
+                        <rect id="Rectangle" x="0.3" y="8.3" width="18.4" height="2.9"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

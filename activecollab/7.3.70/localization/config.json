@@ -1,0 +1,191 @@
+{
+    "hy_AM.UTF-8": {
+        "name": "armenian",
+        "name_localized": "հայերեն",
+        "decimal_separator": ",",
+        "thousands_separator": "",
+        "is_stable": false,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "cs_CZ.UTF-8": {
+        "name": "czech",
+        "name_localized": "Český jazyk",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "zh_CN.UTF-8": {
+        "name": "chinese",
+        "name_localized": "简体中文",
+        "decimal_separator": ".",
+        "thousands_separator": "",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "de_DE.UTF-8": {
+        "name": "german",
+        "name_localized": "Deutsch",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": false,
+        "is_rtl": false
+    },
+    "ja_JP.UTF-8": {
+        "name": "japanese",
+        "name_localized": "日本語",
+        "decimal_separator": ".",
+        "thousands_separator": "",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "es_ES.UTF-8": {
+        "name": "spanish",
+        "name_localized": "Español",
+        "decimal_separator": ",",
+        "thousands_separator": " ",
+        "is_stable": true,
+        "is_community_translation": false,
+        "is_rtl": false
+    },
+    "fr_FR.UTF-8": {
+        "name": "french",
+        "name_localized": "Français",
+        "decimal_separator": ",",
+        "thousands_separator": " ",
+        "is_stable": true,
+        "is_community_translation": false,
+        "is_rtl": false
+    },
+    "hr_HR.UTF-8": {
+        "name": "croatian",
+        "name_localized": "Hrvatski",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "it_IT.UTF-8": {
+        "name": "italian",
+        "name_localized": "Italiano",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "hu_HU.UTF-8": {
+        "name": "hungarian",
+        "name_localized": "Magyar nyelv",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "lt_LT.UTF-8": {
+        "name": "lithuanian",
+        "name_localized": "Lithuanian",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "nl_NL.UTF-8": {
+        "name": "dutch",
+        "name_localized": "Nederlands",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "pl_PL.UTF-8": {
+        "name": "polish",
+        "name_localized": "Polski",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "pt_PT.UTF-8": {
+        "name": "portuguese",
+        "name_localized": "Português",
+        "decimal_separator": ".",
+        "thousands_separator": ",",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "pt_BR.UTF-8": {
+        "name": "brazilian",
+        "name_localized": "Português do Brasil",
+        "decimal_separator": ",",
+        "thousands_separator": "",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "ro_RO.UTF-8": {
+        "name": "romanian",
+        "name_localized": "Românește",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": false,
+        "is_rtl": false
+    },
+    "ru_RU.UTF-8": {
+        "name": "russian",
+        "name_localized": "Русский язык",
+        "decimal_separator": ",",
+        "thousands_separator": " ",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "sk_SK.UTF-8": {
+        "name": "slovak",
+        "name_localized": "Slovenský jazyk",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "sv_SE.UTF-8": {
+        "name": "swedish",
+        "name_localized": "Svenska",
+        "decimal_separator": ",",
+        "thousands_separator": " ",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    },
+    "sr_RS.UTF-8": {
+        "name": "serbian",
+        "name_localized": "Српски",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": false,
+        "is_rtl": false
+    },
+    "tr_TR.UTF-8": {
+        "name": "turkish",
+        "name_localized": "Türkçe",
+        "decimal_separator": ",",
+        "thousands_separator": ".",
+        "is_stable": true,
+        "is_community_translation": true,
+        "is_rtl": false
+    }
+}

@@ -1,0 +1,1571 @@
+{
+    "name": "Recruitment Process",
+    "members": [],
+    "category_id": 0,
+    "created_on": -60,
+    "created_by_name": "Joshua the Project Manager",
+    "created_by_email": "joshua@example.com",
+    "body": "This is a Sample project of a *Recruitment Process* at Exemplary Samples Co.",
+    "currency_id": 1,
+    "email": "owner+c67kjxsozt@activecollab.com",
+    "is_tracking_enabled": true,
+    "is_client_reporting_enabled": false,
+    "budget": null,
+    "task_lists": [
+        {
+            "name": "Applied",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 2,
+            "tasks": [
+                {
+                    "name": "**New Candidate  Template**",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "<p>To add a new candidate, just \"Duplicate\" this tab. Check additional options. [<strong>⋯</strong>]<span >↗</span></p>",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -60,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": []
+                },
+                {
+                    "name": "Louie Mercer",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Louie Mercer.pdf",
+                            "md5": "fda26232d6e9de845a904a00f2037cf9",
+                            "mime_type": "application/pdf",
+                            "created_on": -8,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "Q&A",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 21,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -8,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -8,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -8,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -8,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "CV seems in order. <br /><span class=\"mention\">Olivia the HR Manager</span> You may proceed with a phone interview.  <br /><span class=\"mention\">Nadia the HR Administrator</span> You may start mandatory checks.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -6
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        },
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Laurie Wolf",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Laurie Wolf.pdf",
+                            "md5": "338ee67a9e3b338bdcd51d88998377a7",
+                            "mime_type": "application/pdf",
+                            "created_on": -10,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "DEVELOPER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 14,
+                            "is_global": false
+                        },
+                        {
+                            "name": "MEDIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 13,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -10,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Olivia the HR Manager</span> CV Looks good. Movin on to phone interview.  ",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -8
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Virginia Thompson",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Virginia Thompson.pdf",
+                            "md5": "35ba72fee85155b5954bf7fb88b5458f",
+                            "mime_type": "application/pdf",
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "SENIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 15,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UX DESIGNER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 16,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -7,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Liliana Chambers",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Liliana Chambers.pdf",
+                            "md5": "cd449aa52e7a433727a52e6de6339a69",
+                            "mime_type": "application/pdf",
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "OFFICE MANAGER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 17,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -7,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 5,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dianna Shelton",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Dianna Shelton.pdf",
+                            "md5": "82a1130cd226dca68aca3cd0b6f8e830",
+                            "mime_type": "application/pdf",
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "HR ADMINISTRATOR",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 19,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -5,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 7,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Phone Interview",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 3,
+            "tasks": [
+                {
+                    "name": "Adam Coleman",
+                    "fake_assignee_name": "Olivia the HR Manager",
+                    "fake_assignee_email": "olivia@example.com",
+                    "attachments": [
+                        {
+                            "name": "CV Adam Coleman.pdf",
+                            "md5": "79a977a8451524b1474ae0ee8c2277ba",
+                            "mime_type": "application/pdf",
+                            "created_on": -15,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "JUNIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 12,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UX DESIGNER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 16,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -15,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": 1,
+                    "due_on": 1,
+                    "job_type_id": 0,
+                    "position": 13,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -15,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -15,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": -10,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -15,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Fred the Head of HR</span> I will get right on it.",
+                            "attachments": [],
+                            "created_by_name": "Nadia the HR Administrator",
+                            "created_by_email": "nadia@example.com",
+                            "created_on": -13
+                        },
+                        {
+                            "body": "CV seems in order. <br /><span class=\"mention\">Olivia the HR Manager</span> Proceed with a phone interview. <br /><span class=\"mention\">Nadia the HR Administrator</span> Start mandatory checks, please.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -13
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        },
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Edwin Beattie",
+                    "fake_assignee_name": "Olivia the HR Manager",
+                    "fake_assignee_email": "olivia@example.com",
+                    "attachments": [
+                        {
+                            "name": "CV Edwin Beattie.pdf",
+                            "md5": "9d13f3e7aaa99116d26e6cdbbd49911b",
+                            "mime_type": "application/pdf",
+                            "created_on": -21,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "DEVELOPER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 14,
+                            "is_global": false
+                        },
+                        {
+                            "name": "SENIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 15,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": true,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -21,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": 0,
+                    "due_on": 0,
+                    "job_type_id": 0,
+                    "position": 14,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -21,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -21,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": -6,
+                            "completed_by_name": "Fred the Head of HR",
+                            "completed_by_email": "fred@example.com"
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -21,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Olivia the HR Manager</span> Please conduct phone interview ASAP! We are getting dangerously close to our deadline.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -1
+                        },
+                        {
+                            "body": "<span class=\"mention\">Fred the Head of HR</span> I'll start with reference check.",
+                            "attachments": [],
+                            "created_by_name": "Nadia the HR Administrator",
+                            "created_by_email": "nadia@example.com",
+                            "created_on": -7
+                        },
+                        {
+                            "body": "CV seems in order. <br /><span class=\"mention\">Olivia the HR Manager</span> You may proceed with a phone interview.  <br /><span class=\"mention\">Nadia the HR Administrator</span> You may start mandatory checks.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -10
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        },
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dorris Tayler",
+                    "fake_assignee_name": "Olivia the HR Manager",
+                    "fake_assignee_email": "olivia@example.com",
+                    "attachments": [
+                        {
+                            "name": "CV Dorris Tayler.pdf",
+                            "md5": "5a45fd100e072a3cab9ff2916ce12378",
+                            "mime_type": "application/pdf",
+                            "created_on": -17,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "JUNIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 12,
+                            "is_global": false
+                        },
+                        {
+                            "name": "UX DESIGNER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 16,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -17,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": 2,
+                    "due_on": 2,
+                    "job_type_id": 0,
+                    "position": 15,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -17,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -17,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -17,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Fred the Head of HR</span> Time is of the essence here. We will conduct phone interview and credential as well as background check simultaneously.",
+                            "attachments": [],
+                            "created_by_name": "Olivia the HR Manager",
+                            "created_by_email": "olivia@example.com",
+                            "created_on": -3
+                        },
+                        {
+                            "body": "Excellent CV.<br /><span class=\"mention\">Olivia the HR Manager</span> Proceed with a phone interview.  <br /><span class=\"mention\">Nadia the HR Administrator</span> You may start mandatory checks.<br />Let's get Dorris on our team.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -3
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        },
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Technical Interview",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 4,
+            "tasks": [
+                {
+                    "name": "Phillip Ramsey",
+                    "fake_assignee_name": "Michael the Frontend Developer",
+                    "fake_assignee_email": "michael@example.com",
+                    "attachments": [
+                        {
+                            "name": "CV Phillip Ramsey.pdf",
+                            "md5": "74fb12cc2183989873fffd2ee9d12e13",
+                            "mime_type": "application/pdf",
+                            "created_on": -24,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "DEVELOPER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 14,
+                            "is_global": false
+                        },
+                        {
+                            "name": "SENIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 15,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -24,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": 0,
+                    "due_on": 0,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -24,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": -11,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -24,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": -13,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -24,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": -14,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Fred the Head of HR</span> <span class=\"mention\">Michael the Frontend Developer</span> As far as credentials and background check goes, everything looks good. ",
+                            "attachments": [],
+                            "created_by_name": "Nadia the HR Administrator",
+                            "created_by_email": "nadia@example.com",
+                            "created_on": -7
+                        },
+                        {
+                            "body": "Phone interview passed with flying colors. <span class=\"mention\">Michael the Frontend Developer</span> you can take over and conduct technical interview.",
+                            "attachments": [],
+                            "created_by_name": "Olivia the HR Manager",
+                            "created_by_email": "olivia@example.com",
+                            "created_on": -10
+                        },
+                        {
+                            "body": "CV looks good.<br /><span class=\"mention\">Olivia the HR Manager</span> You may proceed with a phone interview.  <br /><span class=\"mention\">Nadia the HR Administrator</span> You may start mandatory checks.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -15
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com",
+                            "created_on": 0,
+                            "created_by_name": "Michael the Frontend Developer",
+                            "created_by_email": "michael@example.com",
+                            "value": 3,
+                            "record_date": 0,
+                            "job_type_name": "Techincal interview",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com"
+                        },
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        },
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shortlisted Candidates",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 5,
+            "tasks": [
+                {
+                    "name": "Ike Underwood",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Ike Underwood.pdf",
+                            "md5": "41491640942c0d1a9c9b9b9683d1b273",
+                            "mime_type": "application/pdf",
+                            "created_on": -30,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "DEVELOPER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 14,
+                            "is_global": false
+                        },
+                        {
+                            "name": "MEDIOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 13,
+                            "is_global": false
+                        },
+                        {
+                            "name": "REJECTED",
+                            "color": "#E64745",
+                            "is_default": false,
+                            "position": 20,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -30,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -30,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -30,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": "Nadia the HR Administrator",
+                            "fake_assignee_email": "nadia@example.com",
+                            "created_on": -30,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<p><span class=\"mention\">Olivia the HR Manager</span> Indeed.</p> <p><span class=\"mention\">Nadia the HR Administrator</span> No need for additional checks then.</p>",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -7
+                        },
+                        {
+                            "body": "Phone interview proved to be a deal breaker. <span class=\"mention\">Fred the Head of HR</span> I suggest we reject candidate's application.  ",
+                            "attachments": [],
+                            "created_by_name": "Olivia the HR Manager",
+                            "created_by_email": "olivia@example.com",
+                            "created_on": -7
+                        },
+                        {
+                            "body": "CV looks good. Let's proceed with a phone interview and mandatory checks.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -9
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com"
+                        },
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        },
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scott Hardy",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [
+                        {
+                            "name": "CV Scott Hardy.pdf",
+                            "md5": "2ade521fc5ae82fde88a55e97a1be5e1",
+                            "mime_type": "application/pdf",
+                            "created_on": -35,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "DEVELOPER",
+                            "color": "#BEACF9",
+                            "is_default": false,
+                            "position": 14,
+                            "is_global": false
+                        },
+                        {
+                            "name": "HIRED",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 18,
+                            "is_global": false
+                        },
+                        {
+                            "name": "MEDIOR",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 13,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -35,
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Background Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -35,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 1,
+                            "completed_on": -13,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        },
+                        {
+                            "body": "Reference Check",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -35,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 2,
+                            "completed_on": -15,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        },
+                        {
+                            "body": "Vet Candidate's Credentials",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -35,
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "position": 3,
+                            "completed_on": -16,
+                            "completed_by_name": "Nadia the HR Administrator",
+                            "completed_by_email": "nadia@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<p>Mr. Hardy signed a full-time contract with our company.</p> <p><span class=\"mention\">Olivia the HR Manager</span> <span class=\"mention\">Nadia the HR Administrator</span> </p> <p><span class=\"mention\">Michael the Frontend Developer</span> Good job everyone!</p>",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -6
+                        },
+                        {
+                            "body": "<span class=\"mention\">Fred the Head of HR</span> Scott passed technical interview flawlessly. As far as I'm concerned, he is ready to become a part of the team.",
+                            "attachments": [],
+                            "created_by_name": "Michael the Frontend Developer",
+                            "created_by_email": "michael@example.com",
+                            "created_on": -10
+                        },
+                        {
+                            "body": "<span class=\"mention\">Fred the Head of HR</span> <span class=\"mention\">Michael the Frontend Developer</span> Credentials and background check came clean. We are good to go.",
+                            "attachments": [],
+                            "created_by_name": "Nadia the HR Administrator",
+                            "created_by_email": "nadia@example.com",
+                            "created_on": -13
+                        },
+                        {
+                            "body": "Phone interview passed. <span class=\"mention\">Michael the Frontend Developer</span> you may proceed to a technical interview.  ",
+                            "attachments": [],
+                            "created_by_name": "Olivia the HR Manager",
+                            "created_by_email": "olivia@example.com",
+                            "created_on": -15
+                        },
+                        {
+                            "body": "Excellent CV.<br /><span class=\"mention\">Olivia the HR Manager</span> Let's move on to a phone interview.  <br /><span class=\"mention\">Nadia the HR Administrator</span> Start mandatory checks, please.",
+                            "attachments": [],
+                            "created_by_name": "Fred the Head of HR",
+                            "created_by_email": "fred@example.com",
+                            "created_on": -20
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com",
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 2.5,
+                            "record_date": -10,
+                            "job_type_name": "Techincal interview",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Fred the Head of HR",
+                            "user_email": "fred@example.com"
+                        },
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com"
+                        },
+                        {
+                            "user_name": "Olivia the HR Manager",
+                            "user_email": "olivia@example.com"
+                        },
+                        {
+                            "user_name": "Nadia the HR Administrator",
+                            "user_email": "nadia@example.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "discussions": [
+        {
+            "name": "Should we really hire someone with less than 5 years of experience as a senior?",
+            "body": "Really, should we?",
+            "is_hidden_from_clients": false,
+            "created_on": -14,
+            "created_by_name": "Olivia the HR Manager",
+            "created_by_email": "olivia@example.com",
+            "comments": [
+                {
+                    "body": "<span class=\"mention\">Olivia the HR Manager</span> <span >He has quite an unorthodox approach to problem solving. If this turns out to be his actual way of thinking, he would be an excellent addition to the team.</span>",
+                    "attachments": [],
+                    "created_by_name": "Michael the Frontend Developer",
+                    "created_by_email": "michael@example.com",
+                    "created_on": -13
+                },
+                {
+                    "body": "<span class=\"mention\">Fred the Head of HR</span> <span class=\"mention\">Olivia the HR Manager</span> I've checked his credentials and references. It seems that he is not only an excellent engineer, but exemplary colleague as well: most of people I talked to were very sorry to see him go. ",
+                    "attachments": [],
+                    "created_by_name": "Nadia the HR Administrator",
+                    "created_by_email": "nadia@example.com",
+                    "created_on": -13
+                },
+                {
+                    "body": "<span class=\"mention\">Olivia the HR Manager</span> I understand your concern, but at certain times you have to make an exception. Mr. Ramsey has proven to be quite an expert in the field, despite his relatively young age. To be honest, he is an excellent prospect for the future.",
+                    "attachments": [],
+                    "created_by_name": "Fred the Head of HR",
+                    "created_by_email": "fred@example.com",
+                    "created_on": -14
+                },
+                {
+                    "body": "I started this discussion regarding one of our candidates, Phillip Ramsey. It seem he has 4 years of experience but we are considering hiring him as a senior developer. <br />Until Mr. Ramsey's case, the rule was 5 years of experience minimum for senior position. <br />What changed?",
+                    "attachments": [],
+                    "created_by_name": "Olivia the HR Manager",
+                    "created_by_email": "olivia@example.com",
+                    "created_on": -14
+                }
+            ],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Michael the Frontend Developer",
+                    "user_email": "michael@example.com"
+                },
+                {
+                    "user_name": "Nadia the HR Administrator",
+                    "user_email": "nadia@example.com"
+                },
+                {
+                    "user_name": "Olivia the HR Manager",
+                    "user_email": "olivia@example.com"
+                },
+                {
+                    "user_name": "Fred the Head of HR",
+                    "user_email": "fred@example.com"
+                }
+            ]
+        }
+    ],
+    "notes": [
+        {
+            "name": "About \"Recruitment Process\" project",
+            "body": "Just a few pointers to get you started on our project. <br />1. To add a new candidate, click on **New Candidate Template** and edit it. <br />2. Task title should bear the name of the candidate that applied for a certain position.  <br />3. Attach all files candidate provided when they applied (CV, motivational letter, etc.). <br />4. Use labels to make their qualifications transparent (e.g. Senior Developer)  <br />5. Determine the number of phases you want the candidate to go through (in our case we like to keep it simple). Name tasks lists accordingly. <br />6. Move each candidate (task) through task lists as their recruitment process progresses. <br />7. Keep your \"Applied\" list packed with capable candidates at all time.",
+            "is_hidden_from_clients": false,
+            "created_on": -60,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                }
+            ]
+        }
+    ],
+    "time_records": [],
+    "expenses": [
+        {
+            "user_name": "Fred the Head of HR",
+            "user_email": "fred@example.com",
+            "created_on": -30,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "value": 200,
+            "record_date": -30,
+            "billable_status": 0,
+            "summary": "Job Postings on Various Websites",
+            "category_name": "Additional Expances"
+        }
+    ],
+    "files": [],
+    "job_types": [
+        {
+            "name": "Design",
+            "default_hourly_rate": "100.000",
+            "is_default": true
+        },
+        {
+            "name": "Research",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Q&A",
+            "default_hourly_rate": "20.000",
+            "is_default": false
+        },
+        {
+            "name": "Backend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Frontend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Writing",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Editing",
+            "default_hourly_rate": "10.000",
+            "is_default": false
+        },
+        {
+            "name": "Growth Research",
+            "default_hourly_rate": "1.000",
+            "is_default": false
+        },
+        {
+            "name": "Techincal interview",
+            "default_hourly_rate": "1.000",
+            "is_default": false
+        }
+    ],
+    "expense_categories": [
+        {
+            "name": "Additional Expances",
+            "is_default": true
+        }
+    ],
+    "config_option_values": {
+        "display_mode_projects": "grid",
+        "display_mode_project_files": "list",
+        "display_mode_project_time": "list",
+        "sort_mode_project_notes": "recently_updated",
+        "show_visual_editor_toolbar": true,
+        "display_mode_project_tasks": "column"
+    }
+}

@@ -1,0 +1,25 @@
+---
+# ActiveCollab JWT GitLab CI configuration
+
+# Global stages
+stages:
+  - test
+
+# Backend templates
+.PrepareBackend: &prepare_backend
+  stage: test
+  image: registry.activecollab.com/ci/activecollab-backend:latest
+  before_script:
+    - echo "Updating dependencies"
+    - composer install --ignore-platform-reqs
+
+.RunBackendTests: &run_backend_tests
+  <<: *prepare_backend
+  script:
+    - echo "Running PHPUnit Tests"
+    - vendor/bin/phpunit
+
+# Start jobs
+Backend:
+  <<: *run_backend_tests
+

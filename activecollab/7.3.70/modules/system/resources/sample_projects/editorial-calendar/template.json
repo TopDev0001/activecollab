@@ -1,0 +1,2658 @@
+{
+    "name": "Editorial Calendar",
+    "members": [],
+    "category_id": 2,
+    "created_on": -60,
+    "created_by_name": "Joshua the Project Manager",
+    "created_by_email": "joshua@example.com",
+    "body": "This is a Sample project of *Editorial Calendar* at Exemplary Samples Co.",
+    "currency_id": 1,
+    "email": "owner+9h02vjxfiz@activecollab.com",
+    "is_tracking_enabled": true,
+    "is_client_reporting_enabled": true,
+    "budget": 0,
+    "task_lists": [
+        {
+            "name": "Topic Ideas",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 1,
+            "tasks": [
+                {
+                    "name": "**NEW TOPIC** (Title)",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "TEMPLATE",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 61,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>To create a New Topic, just \"Duplicate\" this tab. Check additional options. [⋯] ↗<br /><br />SEO analysis</strong>:<br /><br />Title variations:<br />1. ---<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -60,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -60,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chasing Late Payments Without Feeling Ashamed",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "REFINED",
+                            "color": "#98B57C",
+                            "is_default": false,
+                            "position": 62,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. Chasing Late Payments Without Feeling Ashamed<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -2,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Time Tracking for Busy People",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "IDEA",
+                            "color": "#FBD6E7",
+                            "is_default": false,
+                            "position": 63,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. Time Tracking for Busy People<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -1,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -1,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Writer Assigned",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 2,
+            "tasks": [
+                {
+                    "name": "Extreme Project Management (XPM)",
+                    "fake_assignee_name": "Charlotte the Writer",
+                    "fake_assignee_email": "charlotte@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "IN PROGRESS",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 8,
+                            "is_global": true
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. Extreme Project Management (XPM)<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": true,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -7,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 3,
+                    "due_on": 3,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -6,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 8,
+                            "completed_on": null,
+                            "completed_by_name": "",
+                            "completed_by_email": ""
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -7,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 9,
+                            "completed_on": null,
+                            "completed_by_name": "",
+                            "completed_by_email": ""
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> <span>I'm on it, no worries.</span>",
+                            "attachments": [],
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "created_on": -0.416667
+                        },
+                        {
+                            "body": "<span class=\"mention\">Charlotte the Writer</span> The deadline has been moved up five days. Will you be able to handle it?",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -0.5
+                        },
+                        {
+                            "body": "<span>Research done, moving on to the writing.</span>",
+                            "attachments": [],
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "created_on": -4
+                        },
+                        {
+                            "body": "Writer instructions and SEO analysis ready. ",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "a0ea5f9b4c7e0587f803a1239bf24a6e",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -6,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -6
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com",
+                            "created_on": 0,
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "value": 2,
+                            "record_date": 0,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "How to do Simple Customer Profitability Analysis",
+                    "fake_assignee_name": "Kate the Writer",
+                    "fake_assignee_email": "kate@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "RESEARCH",
+                            "color": "#A0CBFD",
+                            "is_default": false,
+                            "position": 64,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. How to do Simple Customer Profitability Analysis<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -5,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 8,
+                    "due_on": 8,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -4,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -0.125,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "Research started.",
+                            "attachments": [],
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "created_on": -4
+                        },
+                        {
+                            "body": "Writer's brief is ready. ",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "23935e4a0dcfdd27cf690eeb7612ca3a",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -4,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -4
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "A Systematic Approach to New Employee Onboarding",
+                    "fake_assignee_name": "Charlotte the Writer",
+                    "fake_assignee_email": "charlotte@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "NOT STARTED",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 65,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. A Systematic Approach to New Employee Onboarding<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -6,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 8,
+                    "due_on": 8,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -5,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "Writer's brief is ready.",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "8fb0ed40e9879b455213c5f296d969d2",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -5,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -5
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "In Editing",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 3,
+            "tasks": [
+                {
+                    "name": "Billing Work in Under a Minute",
+                    "fake_assignee_name": "Stacey the Editor",
+                    "fake_assignee_email": "stacey@example.com",
+                    "attachments": [
+                        {
+                            "name": "Billing Work in Under a Minute.docx",
+                            "md5": "2c108909c8b2d597822fc0da20c64f93",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -5,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "WAINTING FOR",
+                            "color": "#FBBB75",
+                            "is_default": false,
+                            "position": 66,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. Billing Work in Under a Minute<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -10,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 3,
+                    "due_on": 3,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -7,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -5,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -5,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -5,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Stacey the Editor</span> On it!",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -4
+                        },
+                        {
+                            "body": "Edited and proofread.<br />However, I feel we need additional screenshots to make it complete. <span class=\"mention\">Jim the SEO Specialist</span> ",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -4
+                        },
+                        {
+                            "body": "Done! <span class=\"mention\">Stacey the Editor</span> You can take over. :)",
+                            "attachments": [],
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "created_on": -4
+                        },
+                        {
+                            "body": "Research is done. Starting the writing process.",
+                            "attachments": [],
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "created_on": -5
+                        },
+                        {
+                            "body": "Writer's brief is ready.",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "138deda6f0ed2e331d43fd562b0f3a66",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -7,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -7
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com",
+                            "created_on": -4,
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "value": 2,
+                            "record_date": -4,
+                            "job_type_name": "Editing",
+                            "billable_status": 0,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com",
+                            "created_on": -4,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 8.5,
+                            "record_date": -4,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "How to Manage and Lead Creative Teams",
+                    "fake_assignee_name": "Stacey the Editor",
+                    "fake_assignee_email": "stacey@example.com",
+                    "attachments": [
+                        {
+                            "name": "How to Manage and Lead Creative Teams.docx",
+                            "md5": "3c28707a8773bdc8318c569b72c1b7ca",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -6,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "PROOFREADING",
+                            "color": "#FBD6E7",
+                            "is_default": false,
+                            "position": 67,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. How to Manage and Lead Creative Teams<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -11,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 4,
+                    "due_on": 4,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -7,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -6,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -5,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -11,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "Edited.<br />Moving on to Proofreading.",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -6
+                        },
+                        {
+                            "body": "Completed. <span class=\"mention\">Stacey the Editor</span> go get them!",
+                            "attachments": [],
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "created_on": -8
+                        },
+                        {
+                            "body": "<span>Research done, moving on to writing.</span>",
+                            "attachments": [],
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "created_on": -9
+                        },
+                        {
+                            "body": "Writer's brief is ready.",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "477c35c4cfb32da1e63fceb2c3c4f0c3",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -11,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -11
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com",
+                            "created_on": -6,
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "value": 2,
+                            "record_date": -6,
+                            "job_type_name": "Editing",
+                            "billable_status": 0,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com",
+                            "created_on": -8,
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "value": 6,
+                            "record_date": -8,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ready to Publish",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 4,
+            "tasks": [
+                {
+                    "name": "How to Deal with Difficult Employees and Turn Them Into Team Players?",
+                    "fake_assignee_name": "Jim the SEO Specialist",
+                    "fake_assignee_email": "jim@example.com",
+                    "attachments": [
+                        {
+                            "name": "How to Deal with Difficult Employees and Turn Them Into Team Players?.docx",
+                            "md5": "ae94d1cc5ea4eb049f2de074e0ad63d2",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -9,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "FINALIZED",
+                            "color": "#98B57C",
+                            "is_default": false,
+                            "position": 68,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>SEO analysis</strong>:<br /><br />Title variations:<br />1. How to Deal with Difficult Employees and Turn Them Into Team Players?<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -13,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 2,
+                    "due_on": 2,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -11,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -9,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -8,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -8,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": -7,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span>Slotted for publishing. Expecting it live within a week.</span>",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -6
+                        },
+                        {
+                            "body": "Editing - done.<br />Proofreading - done.<br /><span class=\"mention\">Jim the SEO Specialist</span> As far as I'm concerned, it's good to go. ",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -8
+                        },
+                        {
+                            "body": "Research - done.<br />Writing - done.<br /><span class=\"mention\">Stacey the Editor</span> All yours. :)",
+                            "attachments": [],
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "created_on": -9
+                        },
+                        {
+                            "body": "Writer's brief ready. ",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "eae7631d7f42946ea1d0617c64839d13",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -11,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -11
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com",
+                            "created_on": -8,
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "value": 4,
+                            "record_date": -8,
+                            "job_type_name": "Editing",
+                            "billable_status": 0,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com",
+                            "created_on": -9,
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "value": 9,
+                            "record_date": -9,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Published",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -60,
+            "start_on": null,
+            "due_on": null,
+            "position": 5,
+            "tasks": [
+                {
+                    "name": "How to Make Sure You Get Paid?",
+                    "fake_assignee_name": "Stacey the Editor",
+                    "fake_assignee_email": "stacey@example.com",
+                    "attachments": [
+                        {
+                            "name": "How to Make Sure You Get Paid?.docx",
+                            "md5": "ffefcd0e1d0100945ebd3ac29c7d45c8",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -16,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "LIVE EDIT",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 69,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>Live Url: <a href=\"https://activecollab.com/blog/project-management/how-to-make-sure-you-get-paid\">https://activecollab.com/blog/project-management/how-to-make-sure-you-get-paid</a><br /><br />SEO analysis</strong>:<br /><br />Title variations:<br />1. How to Make Sure You Get Paid?<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": true,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -20,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -18,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -16,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -14,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -14,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": -13,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": -8,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": -5,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Jim the SEO Specialist</span> Ok, I'll do Live edit.",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": 0
+                        },
+                        {
+                            "body": "<span class=\"mention\">Stacey the Editor</span> <span>I've just been contacted by website we posted this article on: We need to edit it. ASAP</span>",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -1
+                        },
+                        {
+                            "body": "<p>Published on link:</p> <p><a href=\"https://activecollab.com/blog/project-management/how-to-make-sure-you-get-paid\">https://activecollab.com/blog/project-management/how-to-make-sure-you-get-paid</a></p> <p>Outreaching until the end of the month.</p>",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -8
+                        },
+                        {
+                            "body": "Editing - done.<br />Proofreading - done<br /><span class=\"mention\">Jim the SEO Specialist</span> It's good to go.",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -14
+                        },
+                        {
+                            "body": "<span>Research - done.</span><br /><span>Writing - done.<br /><span class=\"mention\">Stacey the Editor</span> <br /></span>",
+                            "attachments": [],
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "created_on": -16
+                        },
+                        {
+                            "body": "Writer's brief ready.",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "908b492959fa95299649c0c68d881156",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -18,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -18
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com",
+                            "created_on": -14,
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "value": 1.5,
+                            "record_date": -14,
+                            "job_type_name": "Editing",
+                            "billable_status": 0,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com",
+                            "created_on": -16,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 7,
+                            "record_date": -16,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "How to Make Sure Your Business Can Grow?",
+                    "fake_assignee_name": "Jim the SEO Specialist",
+                    "fake_assignee_email": "jim@example.com",
+                    "attachments": [
+                        {
+                            "name": "How to Make Sure Your Business Can Grow?.docx",
+                            "md5": "03ffaa3de642273a2e872ee7db2015be",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -14,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "OUTREACH",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 70,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>Live Url: <a href=\"https://activecollab.com/blog/growth/how-to-make-sure-your-business-can-grow\">https://activecollab.com/blog/growth/how-to-make-sure-your-business-can-grow</a><br /><br />SEO analysis</strong>:<br /><br />Title variations:<br />1. How to Make Sure Your Business Can Grow?<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -18,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 14,
+                    "due_on": 14,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -16,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -14,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -13,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -13,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": -13,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": -11,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "Published. Outreaching until the end of the month.",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -6
+                        },
+                        {
+                            "body": "Editing - done.<br />Proofreading - done.<br /><span class=\"mention\">Jim the SEO Specialist</span> ",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -13
+                        },
+                        {
+                            "body": "Writing and research done. <span class=\"mention\">Stacey the Editor</span> ",
+                            "attachments": [],
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "created_on": -14
+                        },
+                        {
+                            "body": "Writer's brief ready.",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "a69f35c7b703a87cd565b54364fa12ad",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -16,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -16
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com",
+                            "created_on": -13,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 3,
+                            "record_date": -13,
+                            "job_type_name": "Editing",
+                            "billable_status": 0,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com",
+                            "created_on": -14,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 8,
+                            "record_date": -14,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Keeping Up With the Market Changes (staying relevant)",
+                    "fake_assignee_name": "Jim the SEO Specialist",
+                    "fake_assignee_email": "jim@example.com",
+                    "attachments": [
+                        {
+                            "name": "Keeping Up With the Market Changes.docx",
+                            "md5": "a446d9944752401d2e1027fbe4ce6f38",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -16,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "OUTREACH",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 70,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>Live link is broken at the moment.<br /><br />SEO analysis</strong>:<br /><br />Title variations:<br />1. Keeping Up With the Market Changes (staying relevant)<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -20,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 5,
+                    "due_on": 5,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -18,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -16,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -15,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -15,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": -14,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": -7,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -20,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> Sure.",
+                            "attachments": [
+                                {
+                                    "name": "New content outreach template.xlsx",
+                                    "md5": "9cd8c77dd32def4833b6341193fed008",
+                                    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                    "created_on": -3,
+                                    "created_by_name": "Jim the SEO Specialist",
+                                    "created_by_email": "jim@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -3
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jim the SEO Specialist</span> Can you share a file you use to organize the outreach? <br />I am gonna accept your for Facebook promotion.",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -3
+                        },
+                        {
+                            "body": "Published but live link is broken at the moment. <br />I will continue the outreach for the next two weeks.<br /><span class=\"mention\">Joshua the Project Manager</span> We could promote this post on Facebook, I think it will have an excellent impact on our readers.",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -7
+                        },
+                        {
+                            "body": "Editing and proofreading - done.<br /><span class=\"mention\">Jim the SEO Specialist</span> ",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -15
+                        },
+                        {
+                            "body": "<span>Research - done.</span><br /><span>Writing - done<br /><span class=\"mention\">Stacey the Editor</span> <br /></span>",
+                            "attachments": [],
+                            "created_by_name": "Charlotte the Writer",
+                            "created_by_email": "charlotte@example.com",
+                            "created_on": -16
+                        },
+                        {
+                            "body": "Writer's brief is ready.",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "6e9f009cc2f6ce187566bcc26ff5ee01",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -18,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -18
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com",
+                            "created_on": -15,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 2,
+                            "record_date": -15,
+                            "job_type_name": "Editing",
+                            "billable_status": 0,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com",
+                            "created_on": -16,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 8,
+                            "record_date": -16,
+                            "job_type_name": "Writing",
+                            "billable_status": 0,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com",
+                            "created_on": -2,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 100,
+                            "record_date": -2,
+                            "billable_status": 1,
+                            "summary": "Post Promotion on Facebook",
+                            "category_name": "Additional Expances"
+                        }
+                    ],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Charlotte the Writer",
+                            "user_email": "charlotte@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "How to Determine the Right Project Management Methodology for You?",
+                    "fake_assignee_name": "Joshua the Project Manager",
+                    "fake_assignee_email": "joshua@example.com",
+                    "attachments": [
+                        {
+                            "name": "How to Determine the Right Project Management Methodology for You?.docx",
+                            "md5": "4a6d3c648783479e72e3cdd573441b66",
+                            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "created_on": -18,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "<strong>Live Url: <a href=\"https://activecollab.com/blog/project-management/how-to-choose-the-right-project-management-methodology\">https://activecollab.com/blog/project-management/how-to-choose-the-right-project-management-methodology<br /><br /></a>SEO analysis</strong>:<br /><br />Title variations:<br />1. How to Determine the Right Project Management Methodology for You<br />2. ---<br />3. ---<br /><br />Main keyword: ---<br />Long tail keywords: ---<br />Meta Description: ---<br />Inner links: ---",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -22,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -7,
+                    "due_on": -7,
+                    "job_type_id": 0,
+                    "position": 4,
+                    "subtasks": [
+                        {
+                            "body": "Research - SEO - Writer Instructions",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -20,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Write",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -18,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Edit",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -17,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Proofread",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 4,
+                            "completed_on": -17,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Provide Imanges",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 5,
+                            "completed_on": -15,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Publish",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 6,
+                            "completed_on": -10,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        },
+                        {
+                            "body": "Outreach",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -22,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 7,
+                            "completed_on": -2,
+                            "completed_by_name": "Joshua the Project Manager",
+                            "completed_by_email": "joshua@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "Published!<br />Live link: <a href=\"https://activecollab.com/blog/project-management/how-to-choose-the-right-project-management-methodology\">https://activecollab.com/blog/project-management/how-to-choose-the-right-project-management-methodology</a><br />Outreach completed.",
+                            "attachments": [],
+                            "created_by_name": "Jim the SEO Specialist",
+                            "created_by_email": "jim@example.com",
+                            "created_on": -2
+                        },
+                        {
+                            "body": "Editing - done.<br />Proofreading - done.<br /><span class=\"mention\">Jim the SEO Specialist</span> ",
+                            "attachments": [],
+                            "created_by_name": "Stacey the Editor",
+                            "created_by_email": "stacey@example.com",
+                            "created_on": -17
+                        },
+                        {
+                            "body": "Research and writing done. <br /><span class=\"mention\">Stacey the Editor</span> ",
+                            "attachments": [],
+                            "created_by_name": "Kate the Writer",
+                            "created_by_email": "kate@example.com",
+                            "created_on": -18
+                        },
+                        {
+                            "body": "Writer's brief is ready. ",
+                            "attachments": [
+                                {
+                                    "name": "Writer Suggestions.pdf",
+                                    "md5": "07546820233bcd42be55d0e7ebde7878",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -20,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -20
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stacey the Editor",
+                            "user_email": "stacey@example.com"
+                        },
+                        {
+                            "user_name": "Kate the Writer",
+                            "user_email": "kate@example.com"
+                        },
+                        {
+                            "user_name": "Jim the SEO Specialist",
+                            "user_email": "jim@example.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "discussions": [
+        {
+            "name": "Topic Brainstorming",
+            "body": "When you get writer's block, this is where you come to overcome! Questions, ideas, thoughts - this discussion is for that.",
+            "is_hidden_from_clients": false,
+            "created_on": -45,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [
+                {
+                    "body": "<span class=\"mention\">Charlotte the Writer</span> Also I have several books on that topic I could lend them to you if you want...   ",
+                    "attachments": [],
+                    "created_by_name": "Kate the Writer",
+                    "created_by_email": "kate@example.com",
+                    "created_on": -7
+                },
+                {
+                    "body": "<span class=\"mention\">Charlotte the Writer</span> <span>I think you should use case study. I have a friend who is a team leader at designer agency. Maybe you could talk to her about it? :)</span>",
+                    "attachments": [],
+                    "created_by_name": "Stacey the Editor",
+                    "created_by_email": "stacey@example.com",
+                    "created_on": -8
+                },
+                {
+                    "body": "I'm having trouble with \"How to Manage and Lead Creative Teams\" text. Just cannot seem to find inspiration. Any thoughts?",
+                    "attachments": [],
+                    "created_by_name": "Charlotte the Writer",
+                    "created_by_email": "charlotte@example.com",
+                    "created_on": -8
+                }
+            ],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                },
+                {
+                    "user_name": "Stacey the Editor",
+                    "user_email": "stacey@example.com"
+                },
+                {
+                    "user_name": "Kate the Writer",
+                    "user_email": "kate@example.com"
+                },
+                {
+                    "user_name": "Charlotte the Writer",
+                    "user_email": "charlotte@example.com"
+                },
+                {
+                    "user_name": "Jim the SEO Specialist",
+                    "user_email": "jim@example.com"
+                }
+            ]
+        }
+    ],
+    "notes": [
+        {
+            "name": "About \"Editorial Calendar\" project",
+            "body": "This project shows how content is created and distributed by supreme Content Team at Exemplary Samples Co. <br />It is divided into five stages:<br />1. Topic ideas are gathered in the first column. All tasks are created from the <strong>**NEW TOPIC**</strong> template, located to the far left. During the first phase, the ideas are being refined. After refinement, project manager (or editor) makes a writer's brief which they attach to each task.<br />2. Once a <strong>writer is assigned</strong> to the task, the topic goes in the second column. Once writers do research and complete writing, they attach the text file to the task and @mention the editor. <br />3. The <strong>editor</strong> takes over the task, checks the text and makes sure that all additional files (like photos and visuals) are good to go. After proofreading, they @mention the SEO specialist so they can start the outreach.<br />4. The fourth column is meant for the <strong>posts that are ready but yet to be published</strong>.<br />5. Once the <strong>post goes live</strong>, it's moved to the fifth and final column.<br />Each task is divided into seven subtasks that are being completed as the process progresses. Also, <strong>labels</strong> are implemented for better transparency.",
+            "is_hidden_from_clients": false,
+            "created_on": -60,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                }
+            ]
+        },
+        {
+            "name": "Advice Needed",
+            "body": "<p><span>Leading creatives is not the same as managing them. To properly lead your creative team you have to be influential, but not intrusive. Leadership has to be apparent - management has to be done incognito.<br /><strong>1.</strong> </span><strong>**It is all in the eyes of the beholder**</strong><span> - All creative work is subjected to opinions that differ depending on an individual. From time to time you will receive a design, a text or sketch you are not fond of.  Don’t let your personal preference be the reason for its dismissal. Run it through the test to if performs well, and make results public. </span></p> <p><span>ihajnpaoiscja In his article published in Forbes magazine, [Victor Lipman](</span><a href=\"https://www.forbes.com/sites/victorlipman/2012/03/07/managing-creative-people-and-teams/#693a6325b108\"><span>https://www.forbes.com/sites/victorlipman/2012/03/07/managing-creative-people-and-teams/#693a6325b108</span></a><span>) recalled that nationwide focus group testing which proved that the insurance commercial he deemed “ridiculous,” was actually enjoyed by the public. It ran for years to come and became the most successful commercial ever, as well as foundation for further marketing activities.<br /></span><strong>2. **Meaningful praise over extra money**</strong><span> - Monetary reward can easily motivate employees that are performing mundane tasks they have no personal connection to. If they fold more boxes per hour than its anticipated, they should be rewarded accordingly - with bonuses. If morale ever drops, it can be uplifted once again with a small intensive.</span></p> <p><span>asdas aascasdav asfafvasv. Creative employees, on the other hand, invest themselves in their work and create it through the reflection of their preferences. Even though they seem like though and independent individuals, the truth is that they are sensitive about their creations. Therefore, increasing bonus is not as nearly as effective as publicly (or privately - depends on preferences) praising them for a job well done.<br /><strong>3. </strong></span><strong>**Creatives (usually) aren’t leaders**</strong><span> - They require guidance and thrive by having a “leadership pillar” to lean on to. However, by putting them in the position of power, one of two things can happen: </span></p> <p><span>- either they never establish authority and become stretched between newly found responsibility and maintaining a positive relationship with former team mates and friends; </span></p> <p><span>- or they go to the other extreme and become dictatorial oligarchs responsible for tension and stress within the team. </span></p> <p><span>Profile of a good leader and a profile of a creative person are very different. According to [research](</span><a href=\"http://journals2.scholarsportal.info/details.xqy?uri=/01918869/v54i0003/420_gigatrbeasp.xml\"><span>http://journals2.scholarsportal.info/details.xqy?uri=/01918869/v54i0003/420_gigatrbeasp.xml</span></a><span>), the best creatives exhibit many characteristics that prevent them from being effective leaders: they are rebellious, antisocial, self-centered, and the only time they will stick their neck out is if the comrade is in distress. </span></p> <p><span>Disclaimer: There are rare cases when your top creative can become a leader and take on a managerial position. However, in those cases, you must ask yourself: “Do I want my top creative man to waste his time on organizational issues, or should I allow him to focus on what he does best?”</span></p>",
+            "is_hidden_from_clients": false,
+            "created_on": -7,
+            "created_by_name": "Charlotte the Writer",
+            "created_by_email": "charlotte@example.com",
+            "comments": [
+                {
+                    "body": "<span class=\"mention\">Charlotte the Writer</span> Looks good. Maybe add some additional links?",
+                    "attachments": [],
+                    "created_by_name": "Stacey the Editor",
+                    "created_by_email": "stacey@example.com",
+                    "created_on": -7
+                },
+                {
+                    "body": "<span class=\"mention\">Kate the Writer</span> Cool. <span class=\"mention\">Stacey the Editor</span> How about you?",
+                    "attachments": [],
+                    "created_by_name": "Charlotte the Writer",
+                    "created_by_email": "charlotte@example.com",
+                    "created_on": -7
+                },
+                {
+                    "body": "<span class=\"mention\">Charlotte the Writer</span> I made some changes. Removed one unnecessary sentence.",
+                    "attachments": [],
+                    "created_by_name": "Kate the Writer",
+                    "created_by_email": "kate@example.com",
+                    "created_on": -7
+                },
+                {
+                    "body": "<span class=\"mention\">Stacey the Editor</span> <span class=\"mention\">Kate the Writer</span> <span>I need some advice. What do you think about this segment? Any thoughts on potential changes?</span>",
+                    "attachments": [],
+                    "created_by_name": "Charlotte the Writer",
+                    "created_by_email": "charlotte@example.com",
+                    "created_on": -7
+                }
+            ],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                },
+                {
+                    "user_name": "Stacey the Editor",
+                    "user_email": "stacey@example.com"
+                },
+                {
+                    "user_name": "Kate the Writer",
+                    "user_email": "kate@example.com"
+                },
+                {
+                    "user_name": "Charlotte the Writer",
+                    "user_email": "charlotte@example.com"
+                },
+                {
+                    "user_name": "Jim the SEO Specialist",
+                    "user_email": "jim@example.com"
+                }
+            ]
+        }
+    ],
+    "time_records": [],
+    "expenses": [],
+    "files": [],
+    "job_types": [
+        {
+            "name": "Design",
+            "default_hourly_rate": "100.000",
+            "is_default": true
+        },
+        {
+            "name": "Research",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Q&A",
+            "default_hourly_rate": "20.000",
+            "is_default": false
+        },
+        {
+            "name": "Backend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Frontend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Writing",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Editing",
+            "default_hourly_rate": "10.000",
+            "is_default": false
+        },
+        {
+            "name": "Growth Research",
+            "default_hourly_rate": "1.000",
+            "is_default": false
+        },
+        {
+            "name": "Techincal interview",
+            "default_hourly_rate": "1.000",
+            "is_default": false
+        }
+    ],
+    "expense_categories": [
+        {
+            "name": "Additional Expances",
+            "is_default": true
+        }
+    ],
+    "config_option_values": {
+        "display_mode_projects": "grid",
+        "display_mode_project_files": "list",
+        "display_mode_project_time": "list",
+        "sort_mode_project_notes": "recently_updated",
+        "show_visual_editor_toolbar": true,
+        "display_mode_project_tasks": "column"
+    }
+}

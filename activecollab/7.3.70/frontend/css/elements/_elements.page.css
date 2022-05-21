@@ -1,0 +1,28 @@
+/* ==========================================================================
+  #PAGE
+  ========================================================================== */
+
+/**
+ * High-, page-level styling.
+ */
+ html {
+  @apply antialiased;
+  @apply bg-theme-200;
+  @apply font-sans;
+  @apply leading-snug;
+  @apply text-theme-800;
+
+  &.neon {
+    @apply bg-theme-100;
+  }
+}
+
+/**
+* 1. Prevent elements "bleeding out" of the viewport to create horizontal
+*    scroll in Chrome and on iOS.
+*/
+body {
+  @apply p-4;
+  background-color: inherit;
+  overflow-x: hidden; /* [1] */
+}

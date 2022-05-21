@@ -1,0 +1,23 @@
+<?php
+
+/*
+ * This file is part of the ActiveCollab project.
+ *
+ * (c) A51 doo <info@activecollab.com>. All rights reserved.
+ */
+
+/**
+ * Add sorting option for projects.
+ *
+ * @package ActiveCollab.migrations
+ */
+class MigrateSortOptionForProjects extends AngieModelMigration
+{
+    /**
+     * Migrate up.
+     */
+    public function up()
+    {
+        $this->addConfigOption('sort_mode_projects', 'activity');
+    }
+}

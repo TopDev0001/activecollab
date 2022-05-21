@@ -1,0 +1,89 @@
+/* ==========================================================================
+  #BUTTONS
+  ========================================================================== */
+
+.c-btn {
+  @apply antialiased;
+  @apply align-middle;
+  @apply bg-transparent;
+  @apply border-solid;
+  @apply border;
+  @apply font-medium;
+  @apply inline-block;
+  @apply leading-none;
+  @apply m-0;
+  @apply no-underline;
+  @apply px-4;
+  @apply py-2;
+  @apply rounded-full;
+  @apply text-sm;
+  @apply h-auto;
+  @apply select-none;
+  @apply cursor-pointer;
+
+  text-align: center;
+  transition: all .25s ease;
+
+  &:focus {
+    @apply outline-none;
+  }
+
+  &:hover {
+    @apply no-underline;
+  }
+
+  &:disabled {
+    @apply cursor-default;
+  }
+
+  &.c-btn--small {
+    @apply py-1;
+    @apply px-3;
+    @apply text-xs;
+  }
+}
+
+  /**
+   * 1. Override legacy css. @todo: remove when we get to refactoring.
+   */
+  .c-btn--primary {
+    @apply bg-primary;
+    @apply border-primary;
+    @apply text-theme-100;
+
+    &:hover {
+      @apply border-primary; /* [1] */
+      box-shadow: 0 0 0 2px theme('colors.primary');
+    }
+  }
+
+  .c-btn--secondary {
+    @apply border-theme-500;
+    @apply text-theme-700;
+
+    .neon & {
+      @apply border-theme-100;
+      @apply text-primary;
+    }
+
+    &:hover {
+      @apply border-primary;
+    }
+  }
+
+  .c-btn--tertiary {
+    @apply text-theme-700;
+    border-color: transparent;
+
+    .neon & {
+      @apply text-primary;
+    }
+
+    &:hover {
+      @apply border-theme-500;
+
+      .neon & {
+        @apply border-primary;
+      }
+    }
+  }

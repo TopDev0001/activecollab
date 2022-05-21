@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en-us"
+      xml:lang="en-us"
+      xmlns="http://www.w3.org/1999/xhtml"
+      ng-controller="AngieApplicationController"
+      class="{{ wireframe.get_theme() }}"
+      ng-class="{
+        unauthorized  : wireframe.initialized && wireframe.authorized === false,
+        initialized   : wireframe.initialized
+      }">
+  <head>
+    <base href="--ROOT-URL--/" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+    <!-- <meta name="apple-itunes-app" content="app-id=1048990283"> -->
+    <meta name="robots" content="noindex,nofollow">
+    <title>ActiveCollab</title>
+  <!--   <link id="favicon-in-tab-32" rel="shortcut icon" href="--ASSETS-URL--/system/images/layout/favicon/favicon.png" type="image/x-icon" />
+   <!--  <link rel="mask-icon" href="--ASSETS-URL--/system/images/layout/favicon/fav_icon.svg">
+
+   <!--  <link rel="apple-touch-icon" sizes="57x57" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-57.png">-->
+   <!--  <link rel="apple-touch-icon" sizes="60x60" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-60.png">-->
+   <!--  <link rel="apple-touch-icon" sizes="72x72" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-72.png">-->
+   <!--  <link rel="apple-touch-icon" sizes="76x76" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-76.png">-->
+    <!-- <link rel="apple-touch-icon" sizes="114x114" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-114.png">-->
+    <!-- <link rel="apple-touch-icon" sizes="120x120" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-120.png">-->
+   <!--  <link rel="apple-touch-icon" sizes="144x144" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-144.png">-->
+   <!--  <link rel="apple-touch-icon" sizes="152x152" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-152.png">-->
+   <!--  <link rel="apple-touch-icon" sizes="180x180" href="--ASSETS-URL--/system/images/layout/favicon/apple-icon-180.png">-->
+   <!--  <link rel="icon" type="image/png" sizes="192x192"  href="--ASSETS-URL--/system/images/layout/favicon/android-icon-192x192.png">-->
+   <!--  <link rel="icon" type="image/png" sizes="96x96" href="--ASSETS-URL--/system/images/layout/favicon/favicon-96x96.png">-->
+   <!--  <link rel="icon" id="favicon-in-tab-16" type="image/png" sizes="16x16" href="--ASSETS-URL--/system/images/layout/favicon/favicon-16x16.png">-->
+    <!-- <link rel="icon" type="image/png" sizes="32x32" href="--ASSETS-URL--/system/images/layout/favicon/favicon-32x32.png">-->
+    <!-- <meta name="msapplication-TileColor" content="#ffffff">
+    <!-- <meta name="msapplication-TileImage" content="--ASSETS-URL--/system/images/layout/favicon/ms-icon-144x144.png">-->
+    <!-- <meta name="theme-color" content="#ffffff">
+    <!-- <link rel="apple-touch-startup-image"
+          media="(device-width: 320px)"
+          href="--ASSETS-URL--/system/images/layout/favicon/apple-touch-startup-image.png">-->
+ <!--   <link rel="apple-touch-startup-image"
+          media="(device-width: 320px)
+           and (-webkit-device-pixel-ratio: 2)"
+          href="--ASSETS-URL--/system/images/layout/favicon/apple-touch-startup-image-retina.png"> -->
+
+    <style type="text/css">
+      --CUSTOM-FONTS--
+    </style>
+
+    <style type="text/css">
+      --BASE-STYLES--
+    </style>
+	
+	<style type="text/css">
+	
+#main_menu_icon_estimates {
+	
+	display:none !important; 
+}  
+
+#main_menu_icon_invoices {
+	
+	display:none !important; 
+}  
+
+#main_menu_icon_integrations {
+	
+	display:none !important; 
+}  
+</style>
+
+    <script type="text/javascript">
+      if (!window.angie) angie = {};
+
+      // URLS
+      angie.api_url = '--API-URL--';
+      angie.root_url = '--ROOT-URL--';
+      angie.assets_url = '--ASSETS-URL--';
+      angie.base_url = '--ROOT-URL--/index.php';
+      angie.cdn_url = '--CDN-URL--';
+
+      // CONSTANTS
+      angie.loaded_language = '--LOADED-LANGUAGE--';
+      angie.csrf_validator_name = '--CSRF-VALIDATOR-NAME--';
+      angie.page_reload_needed = false;
+
+      // INITIAL DATA
+      angie.all_loaded = false;
+      angie.user_session_data = false;
+      angie.user_session_data_loaded = false;
+      angie.initial_data = false;
+      angie.initial_data_loaded = false;
+      angie.file_access_token = {
+        thumb_token: '',
+        preview_token: '',
+        download_token: '',
+        ttl: 0
+      }
+      angie.on_demand = !!--ON-DEMAND--; // use when user isn't unauthenticated, public pages are cases
+
+      /**
+       * Get csrf cookie
+       *
+       * @return {String}
+       */
+      function getCsrfCookie() {
+          var name = angie.csrf_validator_name + "=";
+          var ca = document.cookie.split(';');
+          for (var i=0; i<ca.length; i++) {
+              var c = ca[i];
+              while (c.charAt(0)==' ') c = c.substring(1);
+              if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+          };
+          return "";
+      };
+
+      // failure to load
+      angie.failureToLoad = failureToLoad;
+
+      /**
+       * Peform basic ajax request
+       *
+       * @param  {Object} options
+       * @return {XMLHttpRequest}
+       */
+      angie.performAjaxRequest = function (options) {
+        options.method = options.method ? options.method : 'GET';
+
+        var ajax_request = new XMLHttpRequest();
+        ajax_request.open(options.method, options.url, true);
+
+        // send csrf validator
+        ajax_request.setRequestHeader('X-Angie-CsrfValidator', getCsrfCookie());
+
+        // we need to send json
+        if (options.method != 'GET' && options.method != 'DELETE' && options.data) {
+          ajax_request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        }
+
+        ajax_request.onreadystatechange = options.callback;
+        ajax_request.send(JSON.stringify(options.data ? options.data : null));
+        return ajax_request;
+      }
+
+      /**
+       * Load XMLHttp request
+       */
+      var load_request = function (url, success, error, unauthorized, firewall) {
+        var request = angie.performAjaxRequest({
+          'url'       : url,
+          'callback'  : function () {
+            if (!request || request.readyState != 4) return;
+
+            var response;
+
+            if (request.response) {
+              eval('response = ' + request.response);
+            } else {
+              response = null;
+            }
+
+            // response ok
+            if (request.status == 200 || request.status == 304) {
+              angie.application_version = request.getResponseHeader('X-Angie-ApplicationVersion');
+              if (success) success(response);
+              return true;
+            };
+
+            // not authorized
+            if (request.status == 401) {
+              angie.application_version = request.getResponseHeader('X-Angie-ApplicationVersion');
+              if (unauthorized) unauthorized(response);
+              return true;
+            };
+
+            if (request.status == 403) {
+              angie.application_version = request.getResponseHeader('X-Angie-ApplicationVersion');
+              if (firewall) firewall(response);
+              return true;
+            };
+
+            if (error.status != 200 && error.status != 304) {
+              angie.application_version = request.getResponseHeader('X-Angie-ApplicationVersion');
+              if (unauthorized) unauthorized(response);
+              return true;
+            };
+          }
+        });
+      };
+
+      /**
+       * All loaded callback
+       */
+      var all_loaded = function () {
+        angie.all_loaded = true
+        angie.authorized = !!angie.user_session_data && !!angie.initial_data;
+        angie.remove_body_back_image = false;
+
+        setTimeout(function () {
+          document.getElementById('main_page_preloader').outerHTML = "";
+        }, 5000);
+      };
+
+      /**
+       * Load user session data
+       *
+       * @param Function success
+       * @param Function error
+       */
+      angie.load_user_session_data = function (success, error) {
+        load_request(angie.api_url + '/user-session', function (response) {
+          angie.user_session_data = response;
+          if (success) success(response);
+        }, function (response) {
+          angie.user_session_data = false;
+          if (error) error(response);
+        }, function (response) {
+          angie.user_session_data = response;
+          if (success) success(response);
+        });
+      };
+
+      /**
+       * Load initial data
+       *
+       * @param Function success
+       * @param Function error
+       */
+      angie.load_initial_data = function (success, error) {
+        load_request(angie.api_url + '/initial', function (response) {
+          angie.initial_data = response;
+          if (success) success(response);
+        }, function (response) {
+          angie.initial_data = false;
+          if (error) error(response);
+        }, function (response) {
+          angie.initial_data = false;
+          if (success) success(response);
+        }, function (response) {
+          angie.initial_data = false;
+          if (error) error(response);
+        });
+      };
+
+      // do load the initial data
+      angie.load_initial_data(function () {
+        angie.initial_data_loaded = true;
+        if (angie.user_session_data_loaded) all_loaded();
+      }, function () {
+        failureToLoad('Failed to retrieve initial data');
+      });
+
+      // do load the user session data
+      angie.load_user_session_data(function () {
+        angie.user_session_data_loaded = true;
+        if (angie.initial_data_loaded) all_loaded();
+      }, function () {
+        failureToLoad('Failed to retrieve user session data');
+      });
+
+      /**
+       * Asset loaded handler
+       *
+       * @param  {String} asset
+       */
+      function assetLoaded(asset) {
+        if (asset == 'application' && !window.angie.templates) {
+          failureToLoad('Could not load application javascript');
+        } else if (asset == 'library' && !window.angular) {
+          failureToLoad('Could not load library javascript');
+        }
+      }
+
+      /**
+       * Failure to load handler
+       *
+       * @param  {String} reason
+       */
+
+      function failureToLoad(reason) {
+        var preloader = document.getElementById('main_page_preloader');
+        preloader.className += " error";
+        console.error('Failed to initialize application. Reason: ' + reason);
+      }
+
+      var LOGGER_ERROR_LIMIT = 10000
+      var log_error_counter = 0
+
+      angie.logger = {
+        'event': function(logLevel, message, context) {
+          angie.performAjaxRequest({
+            'url'       : angie.api_url + '/logger/' + logLevel,
+            'method'    : 'POST',
+            'data'      : {
+              'message' : message,
+              'context' : Object.assign(
+                {},
+                context,
+                {
+                  'user_agent': window.navigator.userAgent,
+                  'frontend_ver': angie.application_version,
+                  'frontend_uri': window.location.href
+                }
+              )
+            }
+          });
+        },
+        'error': function(error, context) {
+          if (log_error_counter < LOGGER_ERROR_LIMIT) {
+            if (typeof error !== 'object') {
+              error = {
+                'message': 'Unknown error'
+              }
+            }
+            if (typeof context !== 'object') {
+              context = {}
+            }
+            this.event('error', error.message, context);
+            log_error_counter += 1;
+          }
+        },
+        'info': function (message, context) {
+          if (typeof message !== 'string') {
+            message = 'Unknown info message'
+          }
+          if (typeof context !== 'object') {
+            context = {}
+          }
+          this.event('info', message, context)
+        }
+      }
+
+      window.addEventListener('error', function(event) {
+        angie.logger.error(event.error, { 'stack': event && event.error ? event.error.stack : 'There is no stack error' })
+      })
+
+    </script>
+  </head>
+
+  <body class="break_long_lines" init-modal-dialogs touch-friendly ng-class="{ 'no_background_image' : wireframe.remove_body_back_image === true, '_has-stopwatch-dropdown': true}">
+    <div id="main_page_container">
+      <div id="main_page_loader" ang-content-loader></div>
+      <div id="main_topbar" ng-class="{ visible : wireframe.initialized && wireframe.authorized }" ng-if="logged_user">
+        <ul class="topbar_items">
+          <react-render-component
+            class="react-rendered"
+            component="'StopwatchIndicator'"
+            data="{}"
+          ></react-render-component>
+          <li class="topbar_item">
+            <button
+              class="btn"
+              ng-click="application_model.search_open = true"
+              tooltip="{{wireframe.renderTooltipText.search}}"
+              tooltip-position="bottom"
+            >
+              <span class="icon">
+                <svg-image img="svg_icons_search_ic"></svg-image>
+              </span>
+            </button>
+          </li>
+          <li class="topbar_item" id="topbar_help">
+            <dropdown-button
+              align="center"
+              data-qa-id="help-dropdown-button"
+              icon="svg_icons_help_ic"
+              icon-only="true"
+              tooltip="{{wireframe.renderTooltipText.help}}"
+              tooltip-position="bottom"
+              id="help_dropdown"
+            >
+              <help-popup></help-popup>
+            </dropdown-button>
+          </li>
+          <li ng-if="frontendVersion !== backendVersion && renderVersionControl" class="topbar_item tw-flex tw-justify-center tw-items-center">
+            <react-render-component
+              class="tw-mt-1 tw-mr-1"
+              component="'VersionControl'"
+              data="{backendVersion: backendVersion, frontendVersion: frontendVersion}"
+              spread="true"
+            ></react-render-component>
+          </li>
+          <li class="topbar_item" id="user_profile">
+            <dropdown-button
+              align="center"
+              data-qa-id="profile-dropdown-button"
+              icon="{{ logged_user.id | avatar_url : 40 }}"
+              icon-only="true"
+              badge="{{ wireframe.get_profile_badge_count() }}"
+              tooltip="{{wireframe.renderTooltipText.profile}}"
+              tooltip-position="bottom"
+            >
+              <ul class="menu_list">
+                <li ng-repeat="button_action in wireframe.profile_actions"  id="profile_{{button_action.id}}">
+                  <a href="{{ button_action.url }}" target="{{ button_action.external ? '_blank' : ''}}" data-qa-id="{{ button_action.id }}">
+                    <span class="title">{{ button_action.title }}</span>
+                    <span class="description" ng-if="button_action.description">{{ button_action.description }}</span>
+                    <span class="badge" ng-if="button_action.badge">{{ button_action.badge }}</span>
+                  </a>
+                </li>
+              </ul>
+            </dropdown-button>
+          </li>
+          <li class="topbar_item" id="user_updates">
+            <react-render-component
+              class="react-rendered bell"
+              component="'BellNotification'"
+              data="{openModal: openModal, redirect: redirectTo, updateTitleNotification: updateTitleNotification}"
+              spread="true"
+            ></react-render-component>
+          </li>
+        </ul>
+      </div>
+
+      <aside id="main_sidebar" ng-class="{ visible : wireframe.initialized && wireframe.authorized }" main-sidebar>
+        <!-- wallpaper -->
+        <img id="main_sidebar_background" />
+
+        <!-- quick search -->
+        <section id="quick_add_search">
+          <a href="home" class="icon" id="application_logo">
+            <svg-image class="main-app-logo" img="svg_icons_main_logo"></svg-image>
+          </a>
+        </section>
+
+        <!-- main menu -->
+        <section id="main_menu" data-qa-id="main-menu-wrapper"><nav id="menu_items"></nav></section>
+
+        <!-- buy now button -->
+        <react-render-component
+          class="react-rendered"
+          component="'SidebarBuyNowButtonContainer'"
+          spread="true"
+          ng-if="renderReactComponents"
+        ></react-render-component>
+      </aside>
+
+      <!-- main menu for mobile items -->
+      <aside id="compact_menu"></aside>
+
+
+      <main-view visible="wireframe.initialized">
+        <!-- sidebar notifications -->
+        <sidebar-notifications should-fill-survey="should_fill_survey" help-box-expanded="helpBoxExpanded" current-step="current_step"></sidebar-notifications>
+
+        <!-- container for all pages -->
+        <div id="main_page_wrapper" class="ng-view" ng-class="{ 'without_page_controls' : !wireframe.back_button }"></div>
+      </main-view>
+
+      <!-- quick search -->
+      <quick-search open="application_model.search_open"></quick-search>
+
+      <div id="main_message" class="{{ wireframe.message_type }}" ng-class="{ initialized : wireframe.initialized, 'main-message--visible' : wireframe.message_shown }" ng-if="wireframe.initialized && wireframe.message_visible">
+        <div id="main_message_inner" data-qa-id="wireframe-message" ng-click="hideMessage()">
+          <span ng-bind-html="wireframe.message"></span>
+          <ul ng-if="wireframe.message_additional">
+            <li ng-repeat="additional in wireframe.message_additional">{{ additional }}</li>
+          </ul>
+          <a href="" class="icon size_14 icon_delete_black"></a>
+        </div>
+      </div>
+
+      <react-render-component
+        class="react-rendered"
+        component="'BlockingInterface'"
+        spread="true"
+        data="{completeProcess: completeProcess}"
+        ng-if="show_new_blocking_interface"
+      ></react-render-component>
+
+      <react-render-component
+        ng-if="logged_user"
+        class="react-rendered"
+        component="'UserRealTimeContainer'"
+        spread="true"
+        data="{unsubscribeOnUnmount: true}"
+      ></react-render-component>
+
+      <react-render-component
+        ng-if="logged_user"
+        class="react-rendered"
+        component="'FeaturePointers'"
+      ></react-render-component>
+
+      <react-render-component
+        ng-if="logged_user"
+        class="react-rendered"
+        component="'InitialContainer'"
+      ></react-render-component>
+
+      <react-render-component
+        ng-if="logged_user"
+        class="react-rendered"
+        component="'TaskModalContainer'"
+        data="{ onClose: onCloseTaskModal, onOpen: onOpenTaskModal, redirectTo:redirectTo, onMakeRecurringTask:onMakeRecurringTask, className: 'task-modal-container' }"
+        spread="true"
+      ></react-render-component>
+
+      <react-render-component
+        class="react-rendered"
+        component="'TosterMessageContainer'"
+        ng-if="renderReactComponents"
+      ></react-render-component>
+
+      <react-render-component
+        class="react-rendered"
+        ng-if="logged_user"
+        component="'StorageOverusedErrorModal'"
+      ></react-render-component>
+
+      <react-render-component
+        ng-if="logged_user"
+        class="react-rendered"
+        component="'FaviconChanger'"
+        spread="true"
+      ></react-render-component>
+
+      <react-render-component
+        ng-if="logged_user && chatEnabled && !logged_user.isClient()"
+        class="react-rendered"
+        component="'Chat'"
+        spread="true"
+      ></react-render-component>
+
+      <react-render-component
+        class="react-rendered"
+        component="'GlobalStyle'"
+        spread="true"
+        without-providers="true"
+      ></react-render-component>
+
+      <div id="main_page_preloader" ng-class="{ done : wireframe.initialized }" class="state-body --PRELOADER-MODE--">
+        <div class="main_page_preloader_container">
+
+          <div class="main_page_preloader_animation_container">
+            <span class="main_page_preloader_animation">
+              <span class="dot_1"></span>
+              <span class="dot_2"></span>
+              <span class="dot_3"></span>
+            </span>
+
+            <span class="main_page_preloader_error_image">
+              <svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill-rule="evenodd">
+                  <path d="M24.9472136,4.81377674 C24.4532351,4.56678749 23.8525621,4.76701184 23.6055728,5.26099034 L3.95967478,44.5527864 C3.89024706,44.6916418 3.85410197,44.8447549 3.85410197,45 C3.85410197,45.5522847 4.30181722,46 4.85410197,46 L44.145898,46 C44.3011431,46 44.4542562,45.9638549 44.5931116,45.8944272 C45.0870901,45.6474379 45.2873145,45.0467649 45.0403252,44.5527864 L25.3944272,5.26099034 C25.2976635,5.06746293 25.140741,4.91054044 24.9472136,4.81377674 Z M28.972136,3.47213595 L48.618034,42.763932 C49.8529802,45.2338245 48.8518585,48.2371897 46.381966,49.472136 C45.6876888,49.8192745 44.9221235,50 44.145898,50 L4.85410197,50 C2.09267822,50 -0.145898034,47.7614237 -0.145898034,45 C-0.145898034,44.2237745 0.034827425,43.4582092 0.381966011,42.763932 L20.027864,3.47213595 C21.2628103,1.00224347 24.2661755,0.00112173394 26.736068,1.23606798 C27.703705,1.71988648 28.4883174,2.50449894 28.972136,3.47213595 Z" fill-rule="nonzero"></path>
+                  <path d="M22.647,34.842 L26.886,34.842 L26.886,39 L22.647,39 L22.647,34.842 Z M26.751,24.906 L25.698,33.222 L23.781,33.222 L22.755,24.906 L22.755,19.722 L26.751,19.722 L26.751,24.906 Z"></path>
+                </g>
+              </svg>
+            </span>
+          </div>
+
+          <div class="main_page_preloader_status">
+            <div class="main_page_preloader_status_loading">
+              <div>Loading Components</div>
+              <div>Loading Application</div>
+              <div>Loading Initial Data</div>
+              <div>Logging-in User</div>
+              <div>Initializing</div>
+            </div>
+
+            <div class="main_page_preloader_status_error">
+              Something went wrong.<br />Please contact the technical support.
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div id="ang_modal"></div>
+    </div>
+
+    <!-- LIBRARIES FILES -->
+    <link type="text/css" rel="stylesheet" href="--ASSET-LIBRARY-CSS-URL--" />
+    <script type="text/javascript" src="--ASSET-LIBRARY-JS-URL--" onload="assetLoaded('library')"></script>
+
+    <!-- APPLICATION FILES -->
+    <link type="text/css" rel="stylesheet" href="--ASSET-APPLICATION-CSS-URL--" />
+    <script type="text/javascript" src="--ASSET-APPLICATION-JS-URL--" onload="assetLoaded('application')"></script>
+
+    <style type="text/css" media="print">
+     @media print {
+       * {
+         -webkit-print-color-adjust: exact;
+         color-adjust: exact;
+       }
+     }
+    </style>
+    <script>
+    $(window).keydown(function(event) {
+      const html = document.getElementsByTagName('html')[0];
+      if (event.ctrlKey && event.shiftKey && event.keyCode == 79) {
+        html.classList.toggle('neon');
+        event.preventDefault();
+      }
+    });
+    </script>
+  </body>
+</html>

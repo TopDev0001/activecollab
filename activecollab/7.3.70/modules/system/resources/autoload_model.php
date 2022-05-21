@@ -1,0 +1,61 @@
+<?php
+
+/*
+ * This file is part of the ActiveCollab project.
+ *
+ * (c) A51 doo <info@activecollab.com>. All rights reserved.
+ */
+
+declare(strict_types=1);
+
+AngieApplication::useModel(
+    [
+        'access_logs',
+        'activity_logs',
+        'api_subscriptions',
+        'applied_project_templates',
+        'attachments',
+        'availability_records',
+        'availability_types',
+        'calendar_events',
+        'calendars',
+        'categories',
+        'comments',
+        'companies',
+        'conversation_users',
+        'conversations',
+        'currencies',
+        'data_filters',
+        'day_offs',
+        'feature_pointers',
+        'integrations',
+        'labels',
+        'languages',
+        'messages',
+        'modification_logs',
+        'notification_recipients',
+        'notifications',
+        'payment_gateways',
+        'payments',
+        'project_template_elements',
+        'project_template_task_dependencies',
+        'project_templates',
+        'projects',
+        'reactions',
+        'reminders',
+        'shortcuts',
+        'stored_cards',
+        'subscriptions',
+        'system_notifications',
+        'teams',
+        'test_data_objects',
+        'uploaded_files',
+        'user_devices',
+        'user_invitations',
+        'user_sessions',
+        'user_workspaces',
+        'users',
+        'webhooks',
+    ],
+    'system',
+);

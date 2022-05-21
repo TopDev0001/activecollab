@@ -1,0 +1,899 @@
+{
+    "name": "Web Design",
+    "members": [],
+    "category_id": 2,
+    "created_on": -47,
+    "created_by_name": "Joshua the Project Manager",
+    "created_by_email": "joshua@example.com",
+    "body": "This is a Sample project of *Web Design* process at Exemplary Samples Co.",
+    "currency_id": 1,
+    "email": "owner+zuhu5a0h07@activecollab.com",
+    "is_tracking_enabled": true,
+    "is_client_reporting_enabled": false,
+    "budget": 15000,
+    "task_lists": [
+        {
+            "name": "To Do",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -47,
+            "start_on": null,
+            "due_on": null,
+            "position": 1,
+            "tasks": [
+                {
+                    "name": "Frontend Development",
+                    "fake_assignee_name": "Michael the Frontend Developer",
+                    "fake_assignee_email": "michael@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 120,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 13,
+                    "due_on": 38,
+                    "job_type_id": 5,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Subtasks to be Determined",
+                            "fake_assignee_name": "Joshua the Project Manager",
+                            "fake_assignee_email": "joshua@example.com",
+                            "created_on": 47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Backend Development",
+                    "fake_assignee_name": "John the Backend Developer",
+                    "fake_assignee_email": "john@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 120,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": 20,
+                    "due_on": 45,
+                    "job_type_id": 4,
+                    "position": 2,
+                    "subtasks": [
+                        {
+                            "body": "Additional subtasks to be determined",
+                            "fake_assignee_name": "Joshua the Project Manager",
+                            "fake_assignee_email": "joshua@example.com",
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "John the Backend Developer",
+                            "user_email": "john@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Testing an Online Version",
+                    "fake_assignee_name": null,
+                    "fake_assignee_email": null,
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "URGENT",
+                            "color": "#FF9C9C",
+                            "is_default": false,
+                            "position": 25,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": true,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": null,
+                    "due_on": null,
+                    "job_type_id": 0,
+                    "position": 3,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<p><span class=\"mention\">Joshua the Project Manager</span> <span class=\"mention\">John the Backend Developer</span> Why hire externally when we already have a Q&amp;A Specialist among our own.</p> <p>Geena is a part of our Software Development project, we can ask her to help out.    </p>",
+                            "attachments": [],
+                            "created_by_name": "Michael the Frontend Developer",
+                            "created_by_email": "michael@example.com",
+                            "created_on": -10
+                        },
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> I have a few candidates in mind, but I would have to talk to them first.",
+                            "attachments": [],
+                            "created_by_name": "John the Backend Developer",
+                            "created_by_email": "john@example.com",
+                            "created_on": -9
+                        },
+                        {
+                            "body": "We need to hire a new Q&amp;A specialist - urgently! <span class=\"mention\">Stephany the UI Designer</span> <span class=\"mention\">Pauline the UX Designer</span> <span class=\"mention\">John the Backend Developer</span> <span class=\"mention\">Michael the Frontend Developer</span> if you know any potential candidates, let me know.",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -9
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stephany the UI Designer",
+                            "user_email": "stephany@example.com"
+                        },
+                        {
+                            "user_name": "Pauline the UX Designer",
+                            "user_email": "pauline@example.com"
+                        },
+                        {
+                            "user_name": "John the Backend Developer",
+                            "user_email": "john@example.com"
+                        },
+                        {
+                            "user_name": "Michael the Frontend Developer",
+                            "user_email": "michael@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Doing",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -47,
+            "start_on": null,
+            "due_on": null,
+            "position": 2,
+            "tasks": [
+                {
+                    "name": "UX Design",
+                    "fake_assignee_name": "Pauline the UX Designer",
+                    "fake_assignee_email": "pauline@example.com",
+                    "attachments": [],
+                    "labels": [],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 40,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -8,
+                    "due_on": 10,
+                    "job_type_id": 1,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "About Us page",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Contact page",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Landing page",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -3,
+                            "completed_by_name": "Pauline the UX Designer",
+                            "completed_by_email": "pauline@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> Sure can do! :D",
+                            "attachments": [],
+                            "created_by_name": "Pauline the UX Designer",
+                            "created_by_email": "pauline@example.com",
+                            "created_on": -2
+                        },
+                        {
+                            "body": "<span class=\"mention\">Pauline the UX Designer</span> So far so good. ould you just add link to \"About us\" at the bottom of the page?",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -2
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> Landing page draft is prepared. I will shoot it over ASAP.",
+                            "attachments": [],
+                            "created_by_name": "Pauline the UX Designer",
+                            "created_by_email": "pauline@example.com",
+                            "created_on": -3
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Pauline the UX Designer",
+                            "user_email": "pauline@example.com",
+                            "created_on": -4,
+                            "created_by_name": "Pauline the UX Designer",
+                            "created_by_email": "pauline@example.com",
+                            "value": 6,
+                            "record_date": -5,
+                            "job_type_name": "Design",
+                            "billable_status": 1,
+                            "summary": ""
+                        },
+                        {
+                            "user_name": "Pauline the UX Designer",
+                            "user_email": "pauline@example.com",
+                            "created_on": -6,
+                            "created_by_name": "Pauline the UX Designer",
+                            "created_by_email": "pauline@example.com",
+                            "value": 8,
+                            "record_date": -7,
+                            "job_type_name": "Design",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Pauline the UX Designer",
+                            "user_email": "pauline@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Client Review",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -47,
+            "start_on": null,
+            "due_on": null,
+            "position": 3,
+            "tasks": [
+                {
+                    "name": "Wireframes",
+                    "fake_assignee_name": "Stephany the UI Designer",
+                    "fake_assignee_email": "stephany@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "CHANGES REQUESTED",
+                            "color": "#BEEAFF",
+                            "is_default": false,
+                            "position": 24,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": true,
+                    "estimate": 30,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -15,
+                    "due_on": 3,
+                    "job_type_id": 1,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Create Wireframes",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -7,
+                            "completed_by_name": "Stephany the UI Designer",
+                            "completed_by_email": "stephany@example.com"
+                        },
+                        {
+                            "body": "Review Wireframes",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        },
+                        {
+                            "body": "Approve Wireframes",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": null,
+                            "completed_by_name": null,
+                            "completed_by_email": null
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> I understand your concern, but I would strongly advise against it.  Navigation is a very important element and should have better position. In this case, upper right corner is an excellent choice.",
+                            "attachments": [],
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "created_on": -6
+                        },
+                        {
+                            "body": "<span class=\"mention\">Stephany the UI Designer</span> I reviewed wireframes you've sent me and I have one request: I would like to put navigation below hero section. I don’t like it at the top...",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -7
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> Here are the Wireframes for your website.",
+                            "attachments": [
+                                {
+                                    "name": "Wireframe.png",
+                                    "md5": "9fb210c09210033fdf0b3cabf885c3c4",
+                                    "mime_type": "image/png",
+                                    "created_on": -7,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "created_on": -7
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Stephany the UI Designer",
+                            "user_email": "stephany@example.com",
+                            "created_on": -12,
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "value": 22,
+                            "record_date": -13,
+                            "job_type_name": "Design",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com",
+                            "created_on": -10,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 200,
+                            "record_date": -10,
+                            "category_name": "Additional expenses",
+                            "billable_status": 1,
+                            "summary": "Additional software toolkit"
+                        }
+                    ],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Stephany the UI Designer",
+                            "user_email": "stephany@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Done",
+            "completed_on": null,
+            "completed_by_name": null,
+            "completed_by_email": null,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "is_completed": false,
+            "project_id": null,
+            "created_on": -47,
+            "start_on": null,
+            "due_on": null,
+            "position": 4,
+            "tasks": [
+                {
+                    "name": "Brief",
+                    "fake_assignee_name": "Joshua the Project Manager",
+                    "fake_assignee_email": "joshua@example.com",
+                    "attachments": [
+                        {
+                            "name": "Web Design Brief.pdf",
+                            "md5": "4fe21fa79816d533aa4d1ac29747ae7c",
+                            "mime_type": "application/pdf",
+                            "created_on": -45,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "is_hidden_from_clients": false
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "CORRENSPONDENCE IN PROGRESS",
+                            "color": "#FBD6E7",
+                            "is_default": false,
+                            "position": 22,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "Web Design brief is attached below as PDF file",
+                    "is_important": false,
+                    "estimate": 0,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -50,
+                    "due_on": 45,
+                    "job_type_id": 0,
+                    "position": 2,
+                    "subtasks": [],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> I am moving this conversation into Discussions. We can resume our conversation there and include all stakeholders while we are at it.",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -10
+                        },
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> What we had in mind were additional design suggestions. I am sure your UI designer could fit them within the existing timeframe.",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -10
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> During our initial meeting we've established a brief with an exact budget and deadlines. There really is no maneuvering room, to be honest.",
+                            "attachments": [],
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "created_on": -10
+                        },
+                        {
+                            "body": "<span class=\"mention\">Joshua the Project Manager</span> There have been some changes on our side and we may have to alter current project scope.",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -10
+                        }
+                    ],
+                    "time_records": [],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        }
+                    ]
+                },
+                {
+                    "name": "Research",
+                    "fake_assignee_name": "Stephany the UI Designer",
+                    "fake_assignee_email": "stephany@example.com",
+                    "attachments": [],
+                    "labels": [
+                        {
+                            "name": "APPROVED BY CLIENT",
+                            "color": "#C3E799",
+                            "is_default": false,
+                            "position": 23,
+                            "is_global": false
+                        }
+                    ],
+                    "is_hidden_from_clients": false,
+                    "body": "",
+                    "is_important": false,
+                    "estimate": 20,
+                    "completed_on": null,
+                    "completed_by_name": null,
+                    "completed_by_email": null,
+                    "is_completed": false,
+                    "created_on": -47,
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "start_on": -50,
+                    "due_on": -18,
+                    "job_type_id": 2,
+                    "position": 1,
+                    "subtasks": [
+                        {
+                            "body": "Brainstorming",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 1,
+                            "completed_on": -39,
+                            "completed_by_name": "Stephany the UI Designer",
+                            "completed_by_email": "stephany@example.com"
+                        },
+                        {
+                            "body": "User Surveys",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 2,
+                            "completed_on": -27,
+                            "completed_by_name": "Stephany the UI Designer",
+                            "completed_by_email": "stephany@example.com"
+                        },
+                        {
+                            "body": "Competitor Analysis",
+                            "fake_assignee_name": null,
+                            "fake_assignee_email": null,
+                            "created_on": -47,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "position": 3,
+                            "completed_on": -30,
+                            "completed_by_name": "Stephany the UI Designer",
+                            "completed_by_email": "stephany@example.com"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "body": "<span class=\"mention\">Stephany the UI Designer</span> Great job! Your research has provided us with some valuable insight. ",
+                            "attachments": [],
+                            "created_by_name": "Jamie the Client",
+                            "created_by_email": "jamie@example.com",
+                            "created_on": -15
+                        },
+                        {
+                            "body": "As competition analysis files are vast, I would like to discuss them with you in person if possible.",
+                            "attachments": [],
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "created_on": -17
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> And here are the results of user surveys.",
+                            "attachments": [
+                                {
+                                    "name": "Survey results.pdf",
+                                    "md5": "ca244236d6e6f5c69c6a31d12b444593",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -17,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "created_on": -17
+                        },
+                        {
+                            "body": "<span class=\"mention\">Jamie the Client</span> Let me start off by attaching a summary of our brainstorm meeting conclusions.",
+                            "attachments": [
+                                {
+                                    "name": "Brainstorming Ideas.pdf",
+                                    "md5": "069831b453275181b1e248d2731a8504",
+                                    "mime_type": "application/pdf",
+                                    "created_on": -17,
+                                    "created_by_name": "Joshua the Project Manager",
+                                    "created_by_email": "joshua@example.com",
+                                    "is_hidden_from_clients": false
+                                }
+                            ],
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "created_on": -17
+                        },
+                        {
+                            "body": "Research complete. <span class=\"mention\">Jamie the Client</span> I will provide you with a results in a couple of hours.",
+                            "attachments": [],
+                            "created_by_name": "Stephany the UI Designer",
+                            "created_by_email": "stephany@example.com",
+                            "created_on": -17
+                        }
+                    ],
+                    "time_records": [
+                        {
+                            "user_name": "Pauline the UX Designer",
+                            "user_email": "pauline@example.com",
+                            "created_on": -15,
+                            "created_by_name": "Joshua the Project Manager",
+                            "created_by_email": "joshua@example.com",
+                            "value": 17,
+                            "record_date": -15,
+                            "job_type_name": "Research",
+                            "billable_status": 1,
+                            "summary": ""
+                        }
+                    ],
+                    "expenses": [],
+                    "subscribers": [
+                        {
+                            "user_name": "Joshua the Project Manager",
+                            "user_email": "joshua@example.com"
+                        },
+                        {
+                            "user_name": "Pauline the UX Designer",
+                            "user_email": "pauline@example.com"
+                        },
+                        {
+                            "user_name": "Jamie the Client",
+                            "user_email": "jamie@example.com"
+                        },
+                        {
+                            "user_name": "Stephany the UI Designer",
+                            "user_email": "stephany@example.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "discussions": [
+        {
+            "name": "Discussion - Scope Changes",
+            "body": "Topics regarding Scope changes",
+            "is_hidden_from_clients": false,
+            "created_on": -10,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [
+                {
+                    "body": "<p><span class=\"mention\">Jamie the Client </span> I've extended task deadline until the end of next week.</p> <p><span class=\"mention\">Stephany the UI Designer</span> That will give you five additional days to complete everything.</p>",
+                    "attachments": [],
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "created_on": -8
+                },
+                {
+                    "body": "<span class=\"mention\">Jamie the Client</span> If I focus solely on this task, I can finish it in five days. <span class=\"mention\">Joshua the Project Manager</span> ",
+                    "attachments": [],
+                    "created_by_name": "Stephany the UI Designer",
+                    "created_by_email": "stephany@example.com",
+                    "created_on": -9
+                },
+                {
+                    "body": "<span class=\"mention\">Stephany the UI Designer</span> I see. That delay is unacceptable for us as well. How about three design concepts? Will you be able to achieve that if we extend the deadline by a week?",
+                    "attachments": [],
+                    "created_by_name": "Jamie the Client",
+                    "created_by_email": "jamie@example.com",
+                    "created_on": -9
+                },
+                {
+                    "body": "<span class=\"mention\">Jamie the Client</span> I am afraid that that would be impossible with our budget and our time-frame. We would be breaching the \"Wireframe\" task deadline by 10 days at least.",
+                    "attachments": [],
+                    "created_by_name": "Stephany the UI Designer",
+                    "created_by_email": "stephany@example.com",
+                    "created_on": -10
+                },
+                {
+                    "body": "<span class=\"mention\">Joshua the Project Manager</span> <span class=\"mention\">Stephany the UI Designer</span> Yes, I was wondering if would be possible to get 5 design concepts for our homepage? At least one should have animated hero section.",
+                    "attachments": [],
+                    "created_by_name": "Jamie the Client",
+                    "created_by_email": "jamie@example.com",
+                    "created_on": -10
+                },
+                {
+                    "body": "I've set up this discussion as there seems to be a misunderstanding about the scope of the project. <span class=\"mention\">Jamie the Client</span> you had additional requests?",
+                    "attachments": [],
+                    "created_by_name": "Joshua the Project Manager",
+                    "created_by_email": "joshua@example.com",
+                    "created_on": -10
+                }
+            ],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                },
+                {
+                    "user_name": "Stephany the UI Designer",
+                    "user_email": "stephany@example.com"
+                },
+                {
+                    "user_name": "Jamie the Client",
+                    "user_email": "jamie@example.com"
+                }
+            ]
+        }
+    ],
+    "notes": [
+        {
+            "name": "About \"Web Design\" project",
+            "body": "This sample project is based on simple <strong>\"To Do - Doing - Done\"</strong> concept with inclusion of \"<strong>Client Review\" </strong>column. Each task is further broken down into <strong>Subtasks</strong> so every member can get a firm grip on what should they do next. Subtasks can be added during the process if it's needed. <br />Time spent on each is tracked via Timer app and transparent to both project manager and client. If something out of the ordinary happens (e.g. if client requests changes), it should be communicated by labels.",
+            "is_hidden_from_clients": false,
+            "created_on": -47,
+            "created_by_name": "Joshua the Project Manager",
+            "created_by_email": "joshua@example.com",
+            "comments": [],
+            "attachments": [],
+            "subscribers": [
+                {
+                    "user_name": "Joshua the Project Manager",
+                    "user_email": "joshua@example.com"
+                }
+            ]
+        }
+    ],
+    "time_records": [],
+    "expenses": [],
+    "files": [],
+    "job_types": [
+        {
+            "name": "Design",
+            "default_hourly_rate": "100.000",
+            "is_default": true
+        },
+        {
+            "name": "Research",
+            "default_hourly_rate": "15.000",
+            "is_default": false
+        },
+        {
+            "name": "Q&A",
+            "default_hourly_rate": "20.000",
+            "is_default": false
+        },
+        {
+            "name": "Backend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        },
+        {
+            "name": "Frontend Development",
+            "default_hourly_rate": "50.000",
+            "is_default": false
+        }
+    ],
+    "expense_categories": [
+        {
+            "name": "General",
+            "is_default": true
+        },
+        {
+            "name": "Additional expenses",
+            "is_default": false
+        }
+    ],
+    "config_option_values": {
+        "display_mode_projects": "grid",
+        "display_mode_project_files": "list",
+        "display_mode_project_time": "grid",
+        "sort_mode_project_notes": "recently_updated",
+        "show_visual_editor_toolbar": true,
+        "display_mode_project_tasks": "column"
+    }
+}

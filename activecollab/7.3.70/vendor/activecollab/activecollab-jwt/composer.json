@@ -1,0 +1,45 @@
+{
+    "name": "activecollab/activecollab-jwt",
+    "description": "ActiveCollab wrapper for lcobucc/jwt",
+    "require": {
+        "lcobucci/jwt": "^3.4"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Srdjan Marjanovic",
+            "email": "srdjan.marjanovic@activecollab.com"
+        },
+        {
+            "name": "Aleksandar Vucenic",
+            "email": "aleksandar.vucenic@activecollab.com"
+        },
+        {
+            "name": "Predrag Lukesevic",
+            "email": "predrag.lukesevic@activecollab.com"
+        },
+        {
+            "name": "Rajko Stupar",
+            "email": "rajko.stupar@activecollab.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "friendsofphp/php-cs-fixer": "^2.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "ActiveCollab\\ActiveCollabJwt\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ActiveCollab\\ActiveCollabJwt\\Test\\": "test/src"
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}

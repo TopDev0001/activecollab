@@ -1,0 +1,32 @@
+{
+    "web-design": {
+        "name": "Web Design",
+        "is_preselected": true,
+        "is_active": true,
+        "timestamp": 1516100741
+    },
+    "logo-design": {
+        "name": "Logo Design",
+        "is_preselected": false,
+        "is_active": true,
+        "timestamp": 1516100751
+    },
+    "recruitment-process": {
+        "name": "Recruitment Process",
+        "is_preselected": false,
+        "is_active": true,
+        "timestamp": 1516100736
+    },
+    "growth-hacking": {
+        "name": "Growth Hacking",
+        "is_preselected": false,
+        "is_active": true,
+        "timestamp": 1516100748
+    },
+    "editorial-calendar": {
+        "name": "Editorial Calendar",
+        "is_preselected": false,
+        "is_active": true,
+        "timestamp": 1516100755
+    }
+}

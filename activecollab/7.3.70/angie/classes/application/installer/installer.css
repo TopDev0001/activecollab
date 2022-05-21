@@ -1,0 +1,374 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  font: 12px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+  color: #000;
+  text-align: center;
+  background: #FFF;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+span {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+p, blockquote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+strong {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+big, cite, code, del, dfn, em, font, ins, kbd, q, s,
+samp, small, strike, sub, sup, tt, var, b, u, i, center,
+address, fieldset, pre, acronym, abbr, iframe, object, applet {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+
+dl, dt, dd, ol, ul, li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+form, label, legend {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: none;
+}
+
+button, input, textarea, select {
+  font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+
+optgroup option {
+  padding-left: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:focus {
+  outline:0;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin: 8px 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 8px 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 12px;
+}
+
+table {
+  width: 100%;
+  /*  border-collapse: collapse;*/
+}
+
+table th {
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+  text-align: left;
+}
+
+table th i {
+  font-weight: normal;
+  color: #999;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+.left { text-align: left !important; }
+.right { text-align: right !important; }
+.center { text-align: center !important; }
+
+.top { vertical-align: top !important; }
+.middle { vertical-align: middle !important; }
+.bottom { vertical-align: bottom !important; }
+
+.float_left { float: left; }
+.float_right { float: right; }
+.clear { clear: both; }
+
+.auto { width: auto; }
+.block { display: block; }
+.inline {
+  display: inline;
+  width: auto;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+/** Quick classes **/
+
+.ok {
+  color: green !important;
+}
+
+.ok.inverted {
+  background: green !important;
+  color: white !important;
+}
+
+.nok {
+  color: red !important;
+}
+
+.nok.inverted {
+  background: red !important;
+  color: white !important;
+}
+
+.help_available {
+  border-bottom: 1px dotted #ccc;
+  cursor: help;
+}
+
+/** Overflow **/
+
+.overflow_visible {
+  overflow: visible !important;
+}
+
+/** Pills, simple, label like indicators **/
+
+.pill {
+  margin: 0 1px 0 1px;
+  padding: 1px 6px;
+
+  border-radius: 9px;
+
+  font-size: 9px;
+  font-weight: bold;
+  background: #ccc;
+  letter-spacing: 0.5px;
+  white-space: pre;
+}
+
+.pill.ok {
+  background: green;
+  color: white;
+}
+
+.pill.not_important {
+  background: green;
+  color: white;
+}
+
+.pill.error, .pill.important {
+  background: red;
+  color: white;
+}
+
+.pill .left_half {
+  border-right: 1px solid #777;
+  padding-right: 2px;
+}
+
+.pill .right_half {
+  padding-left: 3px;
+}
+
+/** Slide-Down Settings **/
+
+.slide_down_settings {
+  margin: 8px 23px;
+  padding: 2px 12px;
+  border: 1px dotted #ccc;
+}
+
+.slide_down_settings.borderless {
+  padding: 2px;
+  border: 0;
+}
+
+#application_installer {
+  margin: 50px auto;
+  text-align: left;
+  width: 600px;
+}
+
+#application_installer div.installer_section {
+  margin: 20px 0;
+}
+
+#application_installer div.installer_section div.body {
+  padding: 0 20px;
+}
+
+/** Base form elements **/
+
+#application_installer form p.wrap_form_element {
+  overflow: hidden;
+}
+
+#application_installer form label {
+  width: 120px;
+  float: left;
+  display: block;
+}
+
+/** Validation errors **/
+
+#application_installer div.installer_section.has_errors h1 span {
+  color: red;
+}
+
+#application_installer div.installer_section div.body div.validation_errors p {
+  font-style: italic;
+}
+
+#application_installer div.installer_section div.body div.validation_errors ul li {
+  color: red;
+}
+
+/** Validation log **/
+
+ul.validation_log {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.validation_log li {
+  margin: 4px 0;
+}
+
+ul.validation_log li span.status {
+  font-weight: bold;
+}
+
+ul.validation_log li.ok span.status {
+  color: green;
+}
+
+ul.validation_log li.warning span.status {
+  color: orange;
+}
+
+ul.validation_log li.error span.status {
+  color: red;
+}
+
+ul.validation_log li span.explanation {
+  display: block;
+  font-style: italic;
+  font-size: 90%;
+  margin: 4px 0;
+  padding-left: 10px;
+}
