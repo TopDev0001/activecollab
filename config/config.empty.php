@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Shepherd project.
+ * This file is part of the Shepherd project.fdsfdf
  *
  * (c) A51 doo <info@activecollab.com>. All rights reserved.
  */
