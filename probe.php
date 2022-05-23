@@ -30,10 +30,10 @@ if (!empty($_GET) && array_key_exists('phpinfo', $_GET)) {
 
 // -- Please provide valid database connection parameters ------------------------------
 
-const DB_HOST = ''; // Address of your MySQL server (usually localhost)
-const DB_USER = ''; // Username that is used to connect to the server
-const DB_PASS = ''; // User's password
-const DB_NAME = ''; // Name of the database you are connecting to
+const DB_HOST = 'ls-d1f2b9467901049ebf96b35669aede1544635a22.cyd64jt1fyhf.us-east-2.rds.amazonaws.com'; // Address of your MySQL server (usually localhost)
+const DB_USER = 'activenimblefi1'; // Username that is used to connect to the server
+const DB_PASS = 'ZW!133vaBA$G!'; // User's password
+const DB_NAME = 'activenimblefi1'; // Name of the database you are connecting to
 
 // -- No need to change anything below this line --------------------------------------
 
